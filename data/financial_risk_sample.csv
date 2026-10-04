@@ -1,0 +1,553 @@
+Applicant_ID,Credit_Score,Annual_Income,Loan_Amount,Debt_To_Income_Ratio,Interest_Rate_Pct,Loan_Purpose,Credit_Grade,Delinquent_Months_2Yrs,Default_Status
+APP-5000,631,137369.0,90300.0,0.075,21.66,Business Expansion,A,0,Performing
+APP-5001,540,49809.0,61400.0,0.395,22.29,Equipment,E,1,Performing
+APP-5002,776,131477.0,26800.0,0.624,8.14,Debt Consolidation,C,0,Performing
+APP-5003,665,79355.0,19000.0,0.191,17.39,Business Expansion,C,0,Performing
+APP-5004,743,111845.0,124800.0,0.578,18.66,Equipment,A,1,Performing
+APP-5005,838,78142.0,27300.0,0.156,19.97,Debt Consolidation,C,3,Performing
+APP-5006,566,108744.0,90900.0,0.071,23.96,Working Capital,B,0,Performing
+APP-5007,609,32833.0,27200.0,0.401,15.97,Equipment,A,2,Performing
+APP-5008,528,77295.0,148500.0,0.161,16.01,Business Expansion,A,0,Performing
+APP-5009,700,106012.0,102300.0,0.052,18.64,Business Expansion,B,0,Performing
+APP-5010,622,28585.0,135400.0,0.512,20.27,Equipment,A,0,Performing
+APP-5011,627,79758.0,110200.0,0.28,23.82,Equipment,C,0,Performing
+APP-5012,745,30167.0,5100.0,0.265,18.7,Real Estate,C,1,Defaulted
+APP-5013,510,187354.0,47700.0,0.436,7.19,Real Estate,B,0,Performing
+APP-5014,516,,87800.0,0.083,16.54,Business Expansion,B,0,Performing
+APP-5015,605,76421.0,128400.0,0.146,8.8,Equipment,C,0,Performing
+APP-5016,823,215186.0,70200.0,0.339,6.76,Debt Consolidation,,0,Performing
+APP-5017,597,43875.0,133400.0,0.45,9.88,Business Expansion,A,,Performing
+APP-5018,500,97380.0,23100.0,0.643,21.2,Working Capital,D,0,Performing
+APP-5019,584,39701.0,122400.0,0.316,19.48,Working Capital,B,0,Performing
+APP-5020,570,51140.0,8000.0,2.85,14.6,Business Expansion,B,1,Performing
+APP-5021,523,102614.0,145900.0,0.576,7.81,Business Expansion,E,0,Performing
+APP-5022,788,43023.0,131600.0,0.273,6.47,Working Capital,B,2,Performing
+APP-5023,599,49472.0,57500.0,0.123,17.28,Debt Consolidation,A,0,Performing
+APP-5024,803,103026.0,144600.0,0.54,11.89,Equipment,B,0,Performing
+APP-5025,657,188380.0,77400.0,0.348,16.61,Debt Consolidation,D,0,Performing
+APP-5026,532,64293.0,23200.0,0.583,19.55,Real Estate,B,0,Defaulted
+APP-5027,598,29094.0,42500.0,0.42,15.02,Debt Consolidation,B,0,Performing
+APP-5028,490,23688.0,136300.0,0.31,19.38,Debt Consolidation,A,0,Defaulted
+APP-5029,604,91836.0,107900.0,0.123,15.37,Debt Consolidation,B,0,Performing
+APP-5030,848,94596.0,11800.0,0.356,13.99,Real Estate,C,0,Performing
+APP-5031,617,51506.0,97100.0,0.298,8.54,Business Expansion,,0,Performing
+APP-5032,547,101085.0,23500.0,0.463,21.91,Business Expansion,C,2,Performing
+APP-5033,808,66246.0,101800.0,0.629,15.56,Working Capital,,0,Performing
+APP-5034,692,66402.0,6100.0,0.201,9.84,Business Expansion,B,1,Performing
+APP-5035,745,70595.0,85000.0,0.637,4.96,Debt Consolidation,C,0,Performing
+APP-5036,601,46595.0,11100.0,0.458,4.9,Debt Consolidation,C,0,Performing
+APP-5037,806,94325.0,128800.0,0.168,6.8,Debt Consolidation,B,1,Performing
+APP-5038,805,77878.0,109200.0,0.242,17.51,Equipment,A,3,Performing
+APP-5039,592,67343.0,107900.0,0.277,11.68,Business Expansion,C,0,Performing
+APP-5040,553,113176.0,90100.0,0.422,21.21,Business Expansion,E,1,Performing
+APP-5041,607,80665.0,23900.0,0.065,15.53,Business Expansion,C,1,Performing
+APP-5042,727,67122.0,141500.0,0.162,11.05,Equipment,A,0,Performing
+APP-5043,822,111404.0,73900.0,0.467,21.59,Real Estate,A,,Performing
+APP-5044,517,59413.0,114000.0,0.389,12.9,Working Capital,B,0,Performing
+APP-5045,583,34407.0,87000.0,0.124,22.18,Equipment,C,0,Performing
+APP-5046,739,19679.0,135700.0,0.142,9.11,Real Estate,C,0,Performing
+APP-5047,626,26888.0,146000.0,0.081,13.32,Business Expansion,B,1,Performing
+APP-5048,503,160279.0,137300.0,0.423,17.2,Real Estate,B,0,Performing
+APP-5049,565,46277.0,98000.0,0.626,7.38,Business Expansion,,0,Performing
+APP-5050,782,37274.0,120400.0,0.339,13.0,Equipment,B,0,Defaulted
+APP-5051,688,59745.0,80700.0,0.425,6.44,Debt Consolidation,E,0,Performing
+APP-5052,666,56516.0,117600.0,0.136,23.51,Business Expansion,D,2,Performing
+APP-5053,818,122327.0,64100.0,0.328,11.29,Real Estate,D,0,Performing
+APP-5054,822,100722.0,86200.0,0.093,17.09,Equipment,A,0,Performing
+APP-5055,748,64398.0,122600.0,0.553,20.38,Working Capital,A,0,Performing
+APP-5056,759,61716.0,133100.0,0.215,21.25,Business Expansion,B,0,Performing
+APP-5057,845,46771.0,28700.0,0.299,3.8,Working Capital,A,0,Performing
+APP-5058,721,31215.0,56400.0,0.419,18.38,Real Estate,B,0,Performing
+APP-5059,531,89744.0,7400.0,0.605,12.56,Debt Consolidation,A,0,Performing
+APP-5060,591,72847.0,137200.0,0.338,6.86,Working Capital,B,5,Performing
+APP-5061,789,57309.0,146800.0,0.409,13.15,Equipment,,0,Defaulted
+APP-5062,615,287927.0,45400.0,0.074,13.47,Working Capital,B,1,Performing
+APP-5063,538,160692.0,44100.0,0.282,9.69,Equipment,B,2,Performing
+APP-5064,765,251738.0,7100.0,0.429,12.62,Business Expansion,C,0,Defaulted
+APP-5065,543,129438.0,24900.0,0.554,6.38,Working Capital,B,0,Defaulted
+APP-5066,845,28986.0,52100.0,0.414,17.05,Equipment,C,0,Performing
+APP-5067,661,113748.0,132900.0,0.411,11.91,Business Expansion,B,0,Performing
+APP-5068,762,29246.0,58700.0,0.637,9.65,Working Capital,A,0,Performing
+APP-5069,508,111569.0,22700.0,0.051,23.26,Equipment,C,0,Performing
+APP-5070,583,353151.0,145200.0,0.408,18.56,Real Estate,E,0,Performing
+APP-5071,716,94426.0,111000.0,0.393,17.15,Real Estate,A,1,Performing
+APP-5072,533,97199.0,41200.0,0.571,22.94,Working Capital,A,0,Defaulted
+APP-5073,612,72422.0,119700.0,0.609,15.33,Equipment,B,0,Performing
+APP-5074,589,277471.0,10700.0,0.523,8.22,Business Expansion,B,3,Performing
+APP-5075,743,31531.0,73700.0,0.086,11.36,Equipment,C,0,Performing
+APP-5076,611,36293.0,16900.0,0.156,14.36,Business Expansion,A,0,Performing
+APP-5077,703,188939.0,138100.0,0.468,19.19,Real Estate,C,0,Performing
+APP-5078,636,64564.0,142100.0,0.394,11.84,Working Capital,A,1,Defaulted
+APP-5079,742,51238.0,135800.0,0.19,19.87,Real Estate,B,0,Performing
+APP-5080,790,54056.0,56600.0,0.176,9.62,Business Expansion,,0,Performing
+APP-5081,634,73228.0,58600.0,0.085,20.09,Real Estate,B,0,Performing
+APP-5082,509,110675.0,135800.0,0.608,11.7,Real Estate,B,0,Performing
+APP-5083,569,68445.0,65500.0,0.341,12.97,Debt Consolidation,D,0,Performing
+APP-5084,706,111834.0,108300.0,0.312,19.85,Equipment,A,2,Performing
+APP-5085,531,26708.0,81100.0,0.592,10.43,Working Capital,B,0,Performing
+APP-5086,703,122834.0,111300.0,0.631,7.05,Working Capital,B,0,Performing
+APP-5087,514,81738.0,19200.0,0.641,6.27,Business Expansion,C,0,Performing
+APP-5088,823,116554.0,43900.0,0.524,22.65,Working Capital,A,0,Performing
+APP-5089,683,,44400.0,0.056,12.87,Business Expansion,A,0,Performing
+APP-5090,559,133798.0,63700.0,0.495,23.65,Equipment,D,,Performing
+APP-5091,500,46489.0,114100.0,0.31,22.55,Working Capital,C,2,Performing
+APP-5092,787,66771.0,61600.0,0.438,10.37,Working Capital,C,2,Performing
+APP-5093,806,62035.0,28000.0,0.205,12.09,Real Estate,D,0,Performing
+APP-5094,522,77890.0,28900.0,0.643,14.06,Business Expansion,C,0,Performing
+APP-5095,823,57313.0,95000.0,0.1,23.69,Equipment,E,0,Performing
+APP-5096,597,,74200.0,0.436,18.0,Debt Consolidation,B,0,Performing
+APP-5097,546,58262.0,122500.0,0.606,17.41,Working Capital,A,0,Performing
+APP-5098,823,199593.0,66000.0,0.259,21.03,Real Estate,B,1,Performing
+APP-5099,561,107642.0,147100.0,0.189,24.16,Equipment,C,0,Performing
+APP-5100,559,93942.0,76800.0,0.419,16.87,Real Estate,B,2,Performing
+APP-5101,533,95772.0,75600.0,0.121,9.1,Equipment,B,2,Performing
+APP-5102,772,38700.0,7900.0,0.063,11.36,Working Capital,A,0,Performing
+APP-5103,669,191784.0,81500.0,0.555,18.12,Real Estate,E,0,Performing
+APP-5104,542,97821.0,44800.0,0.414,18.04,Real Estate,,0,Performing
+APP-5105,481,24705.0,32900.0,0.343,14.01,Debt Consolidation,C,1,Performing
+APP-5106,786,173369.0,103800.0,0.592,10.09,Working Capital,C,0,Performing
+APP-5107,731,74343.0,33700.0,0.413,10.2,Equipment,A,0,Performing
+APP-5108,528,91167.0,45300.0,0.587,20.4,Working Capital,C,0,Performing
+APP-5109,499,45692.0,87300.0,0.515,11.82,Working Capital,E,0,Performing
+APP-5110,488,188443.0,110000.0,0.247,14.33,Business Expansion,A,0,Performing
+APP-5111,673,39476.0,31400.0,0.632,10.03,Working Capital,A,1,Performing
+APP-5112,674,156302.0,80500.0,0.149,5.76,Equipment,A,0,Defaulted
+APP-5113,715,134289.0,95100.0,0.494,7.04,Business Expansion,B,0,Performing
+APP-5114,585,56096.0,94500.0,0.47,14.77,Working Capital,B,,Performing
+APP-5115,596,73852.0,79400.0,0.148,10.9,Business Expansion,B,0,Performing
+APP-5116,833,98463.0,103800.0,0.555,22.51,Equipment,A,0,Performing
+APP-5117,696,35037.0,142400.0,0.549,19.86,Working Capital,D,0,Performing
+APP-5118,601,126079.0,46600.0,0.314,8.74,Real Estate,A,0,Performing
+APP-5119,662,94381.0,146300.0,0.466,15.76,Real Estate,A,0,Defaulted
+APP-5120,846,60543.0,34100.0,0.283,13.91,Real Estate,A,0,Performing
+APP-5121,846,43868.0,103200.0,0.309,14.13,Equipment,B,0,Performing
+APP-5122,547,44839.0,20500.0,0.16,10.2,Equipment,A,1,Performing
+APP-5123,816,230948.0,64000.0,0.08,23.29,Real Estate,B,0,Performing
+APP-5124,787,47338.0,20500.0,0.346,7.29,Real Estate,A,0,Performing
+APP-5125,639,71571.0,130100.0,0.443,23.98,Business Expansion,C,3,Performing
+APP-5126,616,,81400.0,0.298,9.93,Real Estate,A,0,Performing
+APP-5127,832,82169.0,48700.0,0.37,9.14,Business Expansion,C,0,Performing
+APP-5128,746,139531.0,61100.0,0.28,21.94,Debt Consolidation,B,1,Performing
+APP-5129,752,,60800.0,0.584,9.47,Real Estate,A,0,Defaulted
+APP-5130,611,66880.0,58800.0,0.149,19.28,Equipment,B,0,Performing
+APP-5131,829,111924.0,75100.0,0.219,5.98,Business Expansion,B,0,Defaulted
+APP-5132,485,40615.0,131900.0,0.214,22.94,Business Expansion,C,0,Performing
+APP-5133,617,59456.0,97600.0,0.395,13.52,Equipment,B,0,Performing
+APP-5134,826,125608.0,133800.0,0.591,20.41,Equipment,C,,Performing
+APP-5135,693,83113.0,78200.0,0.229,15.99,Real Estate,B,1,Performing
+APP-5136,810,30234.0,90800.0,0.234,23.64,Real Estate,B,0,Performing
+APP-5137,611,74233.0,73900.0,0.077,16.28,Real Estate,B,1,Performing
+APP-5138,643,95570.0,135800.0,0.638,16.77,Debt Consolidation,E,0,Performing
+APP-5139,780,29672.0,85700.0,0.374,21.38,Business Expansion,C,1,Performing
+APP-5140,605,69566.0,149100.0,0.541,20.04,Real Estate,E,0,Performing
+APP-5141,707,200574.0,22000.0,0.081,19.89,Debt Consolidation,C,2,Performing
+APP-5142,568,44551.0,133200.0,0.454,19.45,Working Capital,C,0,Performing
+APP-5143,561,136721.0,90400.0,0.409,18.72,Business Expansion,B,0,Performing
+APP-5144,570,34036.0,54000.0,0.618,8.92,Business Expansion,E,0,Performing
+APP-5145,774,102402.0,23100.0,0.634,11.6,Debt Consolidation,B,0,Performing
+APP-5146,664,86059.0,138000.0,0.571,23.47,Real Estate,,0,Performing
+APP-5147,662,112891.0,13000.0,0.15,21.09,Real Estate,E,0,Performing
+APP-5148,492,126504.0,7700.0,0.408,5.11,Debt Consolidation,,0,Performing
+APP-5149,834,84933.0,127400.0,0.318,21.97,Debt Consolidation,,2,Performing
+APP-5150,721,81058.0,58000.0,0.389,21.99,Working Capital,A,1,Performing
+APP-5151,626,39393.0,79500.0,0.244,23.05,Working Capital,D,0,Performing
+APP-5152,792,41869.0,41400.0,0.226,21.19,Equipment,B,0,Performing
+APP-5153,561,120778.0,19700.0,0.439,22.15,Real Estate,C,0,Performing
+APP-5154,585,117647.0,136400.0,0.485,22.53,Real Estate,C,0,Performing
+APP-5155,494,98191.0,75900.0,0.21,13.84,Working Capital,C,1,Performing
+APP-5156,527,112313.0,135700.0,0.38,21.93,Business Expansion,B,0,Defaulted
+APP-5157,815,45825.0,22100.0,0.29,15.71,Working Capital,B,0,Performing
+APP-5158,825,331443.0,21500.0,0.349,15.58,Equipment,A,0,Performing
+APP-5159,513,48839.0,57600.0,0.418,9.26,Working Capital,D,0,Defaulted
+APP-5160,828,,124900.0,0.232,11.49,Real Estate,E,0,Performing
+APP-5161,578,75395.0,62200.0,0.268,10.8,Working Capital,,0,Performing
+APP-5162,649,72116.0,131700.0,0.219,16.81,Equipment,A,0,Performing
+APP-5163,697,26880.0,67300.0,0.283,20.53,Debt Consolidation,C,0,Performing
+APP-5164,579,88595.0,57500.0,0.06,17.43,Working Capital,D,0,Defaulted
+APP-5165,772,65274.0,23600.0,0.63,19.35,Real Estate,D,0,Performing
+APP-5166,671,65723.0,69400.0,0.126,16.36,Working Capital,E,0,Performing
+APP-5167,675,38816.0,50000.0,0.36,5.64,Real Estate,C,0,Performing
+APP-5168,578,144592.0,50600.0,0.331,18.06,Debt Consolidation,A,0,Performing
+APP-5169,748,102702.0,82700.0,0.604,22.09,Equipment,B,2,Performing
+APP-5170,628,84480.0,127100.0,0.535,8.47,Debt Consolidation,A,1,Defaulted
+APP-5171,773,87506.0,71300.0,0.321,12.14,Business Expansion,A,0,Performing
+APP-5172,533,70977.0,80300.0,0.441,10.79,Working Capital,C,0,Performing
+APP-5173,685,56076.0,83700.0,0.211,19.73,Equipment,A,0,Performing
+APP-5174,525,71449.0,118100.0,0.315,24.14,Equipment,E,0,Performing
+APP-5175,774,56264.0,149000.0,0.616,21.7,Real Estate,A,0,Performing
+APP-5176,755,53188.0,51900.0,0.513,3.97,Business Expansion,B,0,Performing
+APP-5177,679,103125.0,16000.0,0.115,23.25,Working Capital,C,0,Performing
+APP-5178,665,462956.0,21500.0,0.105,21.6,Business Expansion,E,0,Defaulted
+APP-5179,697,64247.0,18900.0,0.498,6.94,Business Expansion,A,0,Performing
+APP-5180,574,25166.0,79300.0,0.647,21.17,Business Expansion,D,0,Defaulted
+APP-5181,614,42810.0,73800.0,0.354,4.08,Working Capital,C,0,Performing
+APP-5182,555,97571.0,148000.0,0.645,5.5,Debt Consolidation,C,0,Defaulted
+APP-5183,760,45470.0,80900.0,0.545,5.92,Real Estate,B,0,Performing
+APP-5184,548,97952.0,122400.0,0.105,19.26,Real Estate,B,2,Performing
+APP-5185,746,208807.0,76300.0,0.525,8.92,Debt Consolidation,A,0,Defaulted
+APP-5186,715,130257.0,94400.0,0.541,21.59,Debt Consolidation,B,0,Performing
+APP-5187,847,98923.0,136400.0,0.127,5.41,Business Expansion,B,0,Defaulted
+APP-5188,782,83611.0,58700.0,0.209,3.99,Working Capital,A,0,Performing
+APP-5189,834,78111.0,22400.0,0.085,22.58,Business Expansion,A,0,Performing
+APP-5190,591,44907.0,88000.0,0.183,9.54,Debt Consolidation,B,0,Performing
+APP-5191,631,120082.0,9500.0,0.54,5.34,Business Expansion,A,1,Performing
+APP-5192,836,71790.0,7000.0,0.346,21.37,Real Estate,C,0,Performing
+APP-5193,721,283304.0,23300.0,0.627,15.67,Working Capital,B,0,Performing
+APP-5194,609,32711.0,13700.0,0.444,15.28,Working Capital,B,0,Performing
+APP-5195,754,50124.0,36900.0,0.5,22.89,Working Capital,A,2,Performing
+APP-5196,507,281212.0,68200.0,0.281,18.88,Equipment,A,0,Defaulted
+APP-5197,604,137164.0,104200.0,0.087,16.57,Debt Consolidation,C,0,Performing
+APP-5198,819,56705.0,90100.0,0.373,19.81,Real Estate,B,0,Defaulted
+APP-5199,589,23173.0,55500.0,0.376,6.62,Working Capital,E,0,Defaulted
+APP-5200,825,59709.0,64700.0,0.556,15.75,Business Expansion,B,0,Performing
+APP-5201,737,,113600.0,0.291,6.65,Real Estate,B,0,Performing
+APP-5202,517,139715.0,112200.0,0.34,11.65,Working Capital,B,0,Performing
+APP-5203,610,110442.0,86200.0,0.319,21.02,Business Expansion,A,0,Performing
+APP-5204,790,75584.0,60100.0,0.479,10.25,Real Estate,A,0,Performing
+APP-5205,685,69232.0,145200.0,0.367,15.63,Equipment,C,3,Performing
+APP-5206,586,82566.0,73000.0,0.215,7.68,Real Estate,D,0,Performing
+APP-5207,739,53791.0,126700.0,0.1,14.86,Working Capital,B,0,Performing
+APP-5208,484,43974.0,55700.0,0.502,16.71,Real Estate,C,2,Performing
+APP-5209,564,,144000.0,0.134,3.82,Working Capital,A,0,Defaulted
+APP-5210,643,69484.0,52500.0,0.628,23.67,Debt Consolidation,A,0,Performing
+APP-5211,572,100856.0,127100.0,0.15,14.46,Equipment,B,0,Performing
+APP-5212,734,94887.0,43800.0,0.166,6.93,Business Expansion,C,0,Performing
+APP-5213,575,229779.0,143100.0,0.431,3.66,Working Capital,B,0,Performing
+APP-5214,784,91226.0,124400.0,0.492,3.67,Business Expansion,D,0,Performing
+APP-5215,594,107792.0,141300.0,0.252,20.82,Real Estate,C,0,Performing
+APP-5216,754,44220.0,31900.0,0.277,24.12,Working Capital,E,0,Performing
+APP-5217,781,115032.0,96700.0,0.283,20.23,Real Estate,A,0,Performing
+APP-5218,554,56690.0,32000.0,0.604,16.83,Working Capital,B,0,Performing
+APP-5219,516,98944.0,101900.0,0.275,24.4,Working Capital,C,0,Performing
+APP-5220,835,37310.0,79100.0,0.185,17.92,Real Estate,B,2,Performing
+APP-5221,567,63167.0,62100.0,0.141,18.71,Real Estate,A,0,Performing
+APP-5222,590,305032.0,62800.0,0.635,8.61,Working Capital,A,0,Performing
+APP-5223,656,126308.0,22400.0,0.104,4.34,Real Estate,A,0,Performing
+APP-5224,716,133604.0,55200.0,0.551,17.52,Equipment,B,0,Performing
+APP-5225,626,37034.0,41100.0,0.172,11.0,Debt Consolidation,E,0,Performing
+APP-5226,643,39225.0,102400.0,0.254,7.74,Debt Consolidation,D,0,Performing
+APP-5227,635,112572.0,148300.0,0.129,17.33,Working Capital,D,0,Performing
+APP-5228,720,45278.0,57300.0,0.48,19.28,Equipment,A,,Defaulted
+APP-5229,713,70031.0,94300.0,0.274,20.81,Debt Consolidation,B,0,Performing
+APP-5230,730,42265.0,15800.0,0.294,15.86,Real Estate,C,0,Defaulted
+APP-5231,651,74001.0,98400.0,0.576,5.65,Equipment,A,2,Performing
+APP-5232,848,88784.0,53000.0,0.408,20.5,Real Estate,B,0,Defaulted
+APP-5233,780,59409.0,25200.0,0.075,11.34,Debt Consolidation,E,2,Performing
+APP-5234,564,38023.0,70300.0,0.504,23.47,Working Capital,C,0,Performing
+APP-5235,779,71536.0,59200.0,0.492,13.13,Working Capital,B,0,Performing
+APP-5236,676,67686.0,23100.0,0.618,7.06,Real Estate,A,0,Performing
+APP-5237,769,79462.0,55600.0,0.628,11.5,Working Capital,C,0,Performing
+APP-5238,480,92409.0,51100.0,0.606,10.58,Real Estate,D,1,Performing
+APP-5239,540,87477.0,7600.0,0.337,10.06,Real Estate,C,1,Performing
+APP-5240,658,64123.0,19100.0,0.298,4.03,Business Expansion,C,0,Performing
+APP-5241,815,37599.0,69000.0,0.409,23.96,Business Expansion,D,0,Performing
+APP-5242,579,46530.0,88800.0,0.518,19.15,Business Expansion,E,0,Defaulted
+APP-5243,680,49593.0,45900.0,0.471,16.26,Real Estate,B,0,Performing
+APP-5244,700,192173.0,23000.0,0.27,15.63,Real Estate,E,1,Performing
+APP-5245,557,157768.0,78100.0,0.443,19.38,Debt Consolidation,B,0,Performing
+APP-5246,824,37699.0,82300.0,0.548,5.67,Business Expansion,A,0,Performing
+APP-5247,783,52659.0,46900.0,0.076,4.05,Debt Consolidation,C,0,Performing
+APP-5248,769,,11200.0,0.052,4.71,Equipment,A,0,Performing
+APP-5249,722,38969.0,64400.0,0.341,11.47,Equipment,D,0,Performing
+APP-5250,784,31757.0,86100.0,0.552,24.18,Debt Consolidation,C,0,Defaulted
+APP-5251,620,37855.0,15800.0,0.373,20.55,Working Capital,,0,Performing
+APP-5252,544,111050.0,141700.0,0.482,16.23,Debt Consolidation,A,0,Performing
+APP-5253,825,155504.0,66900.0,0.488,14.02,Working Capital,A,0,Performing
+APP-5254,613,46745.0,92600.0,0.508,9.38,Debt Consolidation,D,2,Defaulted
+APP-5255,542,60126.0,107800.0,0.06,7.19,Business Expansion,A,0,Performing
+APP-5256,541,56811.0,28300.0,0.601,17.65,Real Estate,C,0,Performing
+APP-5257,711,76991.0,25900.0,0.326,15.83,Business Expansion,B,0,Performing
+APP-5258,728,62133.0,50700.0,0.434,23.08,Debt Consolidation,B,0,Performing
+APP-5259,606,56240.0,75600.0,0.251,15.21,Business Expansion,,0,Performing
+APP-5260,499,106752.0,46100.0,0.279,13.78,Equipment,D,0,Performing
+APP-5261,576,23188.0,17700.0,0.1,12.57,Business Expansion,B,0,Performing
+APP-5262,720,68814.0,106000.0,0.431,7.95,Equipment,D,0,Performing
+APP-5263,592,101801.0,62500.0,0.469,12.35,Equipment,A,0,Defaulted
+APP-5264,492,39056.0,50200.0,0.348,4.38,Equipment,B,2,Performing
+APP-5265,825,56288.0,140800.0,0.29,14.26,Business Expansion,C,0,Performing
+APP-5266,765,32819.0,112900.0,0.075,12.76,Working Capital,D,0,Performing
+APP-5267,593,51985.0,97500.0,0.369,6.43,Real Estate,C,1,Performing
+APP-5268,816,144706.0,134900.0,0.16,5.51,Equipment,A,0,Performing
+APP-5269,655,72356.0,149800.0,0.359,8.69,Equipment,B,0,Performing
+APP-5270,482,36678.0,126800.0,0.105,7.52,Debt Consolidation,A,1,Performing
+APP-5271,705,92068.0,105000.0,0.597,7.48,Working Capital,D,0,Performing
+APP-5272,714,102688.0,79700.0,0.616,16.26,Debt Consolidation,C,1,Performing
+APP-5273,532,75747.0,119800.0,0.145,7.04,Debt Consolidation,A,1,Performing
+APP-5274,762,88916.0,89000.0,0.252,23.59,Equipment,C,0,Performing
+APP-5275,725,115898.0,45700.0,0.37,20.71,Real Estate,C,1,Performing
+APP-5276,743,38393.0,29900.0,0.302,17.52,Debt Consolidation,B,0,Performing
+APP-5277,700,96809.0,135400.0,0.508,4.16,Working Capital,D,0,Performing
+APP-5278,556,69911.0,105100.0,0.474,7.32,Real Estate,C,0,Performing
+APP-5279,506,139383.0,125700.0,0.116,17.73,Business Expansion,B,0,Performing
+APP-5280,527,144630.0,136000.0,0.483,23.22,Debt Consolidation,,0,Performing
+APP-5281,695,40469.0,28500.0,0.184,14.78,Business Expansion,C,0,Performing
+APP-5282,503,90392.0,130600.0,0.49,6.08,Debt Consolidation,E,0,Performing
+APP-5283,571,85822.0,65900.0,0.536,23.41,Debt Consolidation,B,0,Performing
+APP-5284,820,42838.0,42000.0,0.592,12.39,Equipment,C,0,Performing
+APP-5285,539,141663.0,19800.0,0.103,6.92,Debt Consolidation,B,1,Performing
+APP-5286,608,83307.0,140800.0,0.257,19.05,Real Estate,B,0,Performing
+APP-5287,507,96332.0,44100.0,0.064,17.9,Debt Consolidation,,1,Performing
+APP-5288,501,69124.0,115800.0,0.537,20.61,Business Expansion,A,0,Defaulted
+APP-5289,691,47813.0,52700.0,0.18,10.65,Real Estate,B,0,Performing
+APP-5290,561,188194.0,22600.0,0.2,10.13,Business Expansion,B,0,Performing
+APP-5291,759,98229.0,71500.0,0.085,20.41,Working Capital,E,0,Defaulted
+APP-5292,822,62508.0,29000.0,0.2,17.37,Equipment,C,0,Performing
+APP-5293,607,219516.0,51100.0,0.579,20.85,Working Capital,D,,Performing
+APP-5294,662,66288.0,12600.0,0.222,15.3,Working Capital,,2,Performing
+APP-5295,725,63091.0,34900.0,0.204,8.06,Real Estate,B,0,Performing
+APP-5296,695,54341.0,136000.0,0.602,5.49,Debt Consolidation,A,1,Performing
+APP-5297,803,117709.0,133700.0,0.246,5.22,Working Capital,C,1,Performing
+APP-5298,770,69639.0,30400.0,0.344,23.84,Working Capital,A,0,Performing
+APP-5299,666,163229.0,79200.0,0.412,23.35,Working Capital,A,0,Performing
+APP-5300,707,109806.0,18600.0,0.45,12.99,Working Capital,B,0,Performing
+APP-5301,579,102900.0,57300.0,0.135,19.97,Equipment,A,0,Performing
+APP-5302,523,16951.0,23000.0,0.429,22.14,Business Expansion,C,0,Performing
+APP-5303,509,125884.0,125000.0,0.072,15.01,Debt Consolidation,B,0,Performing
+APP-5304,619,70499.0,65500.0,0.223,15.69,Business Expansion,,0,Performing
+APP-5305,526,53111.0,46300.0,0.576,8.48,Business Expansion,B,0,Defaulted
+APP-5306,698,97022.0,30300.0,0.638,14.85,Equipment,D,0,Performing
+APP-5307,579,,23100.0,0.446,23.81,Debt Consolidation,A,1,Performing
+APP-5308,562,27693.0,10000.0,0.224,16.74,Real Estate,A,3,Defaulted
+APP-5309,539,100130.0,41200.0,0.29,20.57,Equipment,B,0,Performing
+APP-5310,839,19616.0,15500.0,0.4,21.91,Business Expansion,,2,Performing
+APP-5311,741,59716.0,139500.0,0.377,16.77,Real Estate,B,0,Performing
+APP-5312,677,,138800.0,0.389,15.95,Debt Consolidation,B,0,Performing
+APP-5313,794,71139.0,59500.0,0.34,22.43,Working Capital,D,0,Performing
+APP-5314,838,219599.0,36800.0,0.389,7.53,Real Estate,A,0,Performing
+APP-5315,551,115467.0,27800.0,0.271,20.46,Real Estate,C,2,Performing
+APP-5316,730,67354.0,44100.0,0.23,7.43,Business Expansion,B,0,Performing
+APP-5317,495,67811.0,14300.0,0.598,7.8,Business Expansion,A,1,Performing
+APP-5318,810,39723.0,48500.0,0.145,22.37,Real Estate,A,0,Performing
+APP-5319,642,82274.0,56100.0,0.271,20.09,Equipment,C,,Performing
+APP-5320,749,83501.0,48300.0,0.373,7.69,Equipment,C,1,Performing
+APP-5321,690,34306.0,24200.0,0.513,13.78,Debt Consolidation,C,0,Performing
+APP-5322,617,52635.0,125100.0,0.136,11.69,Debt Consolidation,B,0,Performing
+APP-5323,656,125291.0,144400.0,0.279,19.08,Real Estate,B,1,Defaulted
+APP-5324,617,68128.0,121800.0,0.559,7.57,Business Expansion,B,0,Performing
+APP-5325,694,,139900.0,0.195,13.35,Real Estate,A,0,Performing
+APP-5326,826,125872.0,103200.0,0.629,13.91,Business Expansion,A,0,Performing
+APP-5327,493,121832.0,45900.0,0.392,15.29,Real Estate,A,0,Performing
+APP-5328,489,69366.0,112700.0,0.637,9.98,Real Estate,A,0,Performing
+APP-5329,699,44233.0,98800.0,0.513,15.16,Working Capital,E,0,Performing
+APP-5330,793,63913.0,76200.0,0.107,15.23,Business Expansion,A,0,Performing
+APP-5331,699,135236.0,40700.0,0.516,5.66,Business Expansion,,1,Performing
+APP-5332,745,,115600.0,0.362,4.13,Working Capital,A,0,Performing
+APP-5333,691,26479.0,57000.0,0.457,21.61,Working Capital,C,0,Defaulted
+APP-5334,664,53127.0,12800.0,0.395,18.27,Business Expansion,C,0,Performing
+APP-5335,565,96646.0,45000.0,0.486,16.33,Debt Consolidation,D,0,Defaulted
+APP-5336,822,100954.0,8600.0,0.524,23.29,Business Expansion,D,0,Performing
+APP-5337,725,44646.0,56700.0,0.398,24.16,Equipment,B,0,Defaulted
+APP-5338,595,90356.0,69000.0,0.649,19.23,Real Estate,A,,Defaulted
+APP-5339,536,46030.0,13100.0,0.241,6.86,Equipment,B,0,Performing
+APP-5340,651,192949.0,75800.0,0.381,8.44,Working Capital,A,0,Defaulted
+APP-5341,529,75366.0,113800.0,0.084,19.65,Real Estate,B,2,Performing
+APP-5342,717,99261.0,140100.0,0.09,23.7,Real Estate,A,0,Performing
+APP-5343,493,124796.0,81100.0,0.064,7.05,Business Expansion,C,1,Performing
+APP-5344,759,53531.0,101500.0,0.614,10.34,Business Expansion,B,,Performing
+APP-5345,743,146407.0,53600.0,0.337,11.87,Business Expansion,C,1,Performing
+APP-5346,641,35499.0,8000.0,0.351,11.24,Business Expansion,B,0,Performing
+APP-5347,731,25921.0,45000.0,0.617,10.75,Debt Consolidation,C,0,Performing
+APP-5348,781,58928.0,7200.0,0.23,12.7,Debt Consolidation,B,0,Performing
+APP-5349,571,315865.0,144500.0,0.635,23.25,Real Estate,B,0,Performing
+APP-5350,610,34100.0,46500.0,0.053,4.81,Debt Consolidation,B,0,Defaulted
+APP-5351,843,67704.0,86800.0,0.529,20.51,Debt Consolidation,A,0,Performing
+APP-5352,788,,47900.0,0.262,10.58,Real Estate,A,2,Performing
+APP-5353,667,159276.0,101000.0,0.592,13.44,Debt Consolidation,C,0,Performing
+APP-5354,685,29098.0,104000.0,0.059,17.15,Equipment,C,2,Defaulted
+APP-5355,707,86779.0,76100.0,0.108,17.8,Working Capital,D,0,Performing
+APP-5356,674,64595.0,69400.0,0.372,13.1,Real Estate,E,0,Performing
+APP-5357,769,94495.0,30600.0,0.255,9.08,Debt Consolidation,C,0,Performing
+APP-5358,842,99380.0,42100.0,0.428,14.94,Debt Consolidation,C,0,Performing
+APP-5359,574,27230.0,75300.0,0.497,21.62,Real Estate,A,0,Performing
+APP-5360,491,99722.0,106100.0,0.074,8.86,Real Estate,C,0,Performing
+APP-5361,623,27030.0,61800.0,0.127,10.26,Working Capital,C,1,Performing
+APP-5362,594,65888.0,126400.0,0.323,13.91,Debt Consolidation,B,0,Performing
+APP-5363,683,62990.0,93600.0,0.245,3.68,Working Capital,C,0,Defaulted
+APP-5364,791,46017.0,83800.0,0.619,17.65,Equipment,B,0,Performing
+APP-5365,519,,140000.0,0.521,19.71,Business Expansion,A,0,Performing
+APP-5366,832,93313.0,58600.0,0.347,11.39,Equipment,B,,Performing
+APP-5367,804,43304.0,44900.0,0.5,13.39,Real Estate,B,2,Performing
+APP-5368,757,75323.0,5900.0,0.557,21.18,Working Capital,C,0,Performing
+APP-5369,517,126045.0,144300.0,0.194,22.6,Debt Consolidation,B,2,Performing
+APP-5370,755,103254.0,43700.0,0.452,14.44,Real Estate,A,0,Performing
+APP-5371,753,170101.0,119700.0,0.327,5.05,Debt Consolidation,A,1,Performing
+APP-5372,779,145857.0,38100.0,0.56,23.83,Business Expansion,A,0,Performing
+APP-5373,733,26494.0,126700.0,0.303,19.23,Debt Consolidation,A,0,Performing
+APP-5374,832,26891.0,94900.0,0.389,14.47,Equipment,E,1,Performing
+APP-5375,711,20896.0,57700.0,0.05,12.65,Equipment,E,1,Performing
+APP-5376,817,61010.0,131700.0,0.551,4.06,Working Capital,A,0,Performing
+APP-5377,610,147838.0,74100.0,0.368,21.02,Real Estate,C,1,Defaulted
+APP-5378,766,93594.0,115800.0,0.057,16.78,Equipment,D,0,Performing
+APP-5379,787,27548.0,58300.0,0.625,8.67,Working Capital,A,0,Performing
+APP-5380,533,36797.0,143700.0,0.343,5.67,Debt Consolidation,A,,Performing
+APP-5381,636,41655.0,120400.0,0.26,9.87,Business Expansion,B,0,Performing
+APP-5382,586,34587.0,10200.0,0.329,24.2,Working Capital,B,0,Defaulted
+APP-5383,821,46229.0,54200.0,0.211,20.48,Business Expansion,B,0,Defaulted
+APP-5384,843,39021.0,33300.0,0.205,7.36,Real Estate,C,0,Performing
+APP-5385,670,80783.0,77100.0,0.419,8.09,Real Estate,A,2,Performing
+APP-5386,700,165572.0,90400.0,0.61,11.82,Equipment,B,0,Performing
+APP-5387,737,39371.0,13200.0,0.61,13.05,Working Capital,B,0,Performing
+APP-5388,674,132356.0,33000.0,0.243,17.73,Working Capital,A,1,Performing
+APP-5389,742,,133900.0,0.267,4.84,Real Estate,A,0,Performing
+APP-5390,513,73302.0,70700.0,0.615,5.8,Working Capital,B,0,Performing
+APP-5391,482,43313.0,138500.0,0.576,20.27,Working Capital,B,0,Performing
+APP-5392,574,46141.0,9800.0,0.314,13.92,Real Estate,,0,Performing
+APP-5393,602,81761.0,126600.0,0.589,16.78,Real Estate,C,0,Performing
+APP-5394,605,120750.0,117800.0,0.525,14.64,Debt Consolidation,D,0,Performing
+APP-5395,729,56312.0,149100.0,0.404,20.12,Real Estate,B,0,Performing
+APP-5396,829,60704.0,59300.0,0.504,22.63,Debt Consolidation,B,0,Performing
+APP-5397,611,141570.0,95300.0,0.613,5.46,Real Estate,C,0,Performing
+APP-5398,741,66352.0,81800.0,0.458,19.34,Debt Consolidation,B,0,Performing
+APP-5399,752,128423.0,142800.0,0.491,6.22,Debt Consolidation,A,0,Performing
+APP-5400,611,27725.0,88200.0,0.147,18.52,Business Expansion,B,0,Performing
+APP-5401,568,31806.0,145400.0,0.362,23.46,Equipment,,0,Performing
+APP-5402,684,216994.0,20000.0,0.317,16.31,Working Capital,A,0,Performing
+APP-5403,612,63445.0,65000.0,0.478,7.9,Equipment,D,0,Performing
+APP-5404,805,39395.0,67700.0,0.5,3.86,Business Expansion,B,0,Defaulted
+APP-5405,570,83877.0,46600.0,0.142,17.62,Real Estate,B,0,Defaulted
+APP-5406,763,88075.0,80200.0,0.636,24.28,Equipment,C,0,Performing
+APP-5407,603,33906.0,128500.0,0.495,23.56,Business Expansion,A,1,Defaulted
+APP-5408,819,77601.0,37500.0,0.091,9.96,Equipment,A,0,Performing
+APP-5409,815,44255.0,58300.0,0.149,7.95,Real Estate,B,0,Performing
+APP-5410,629,109185.0,10500.0,0.401,11.0,Debt Consolidation,C,0,Performing
+APP-5411,692,50770.0,107900.0,0.063,17.46,Debt Consolidation,A,0,Performing
+APP-5412,504,86733.0,94400.0,0.092,11.83,Working Capital,B,0,Performing
+APP-5413,567,70585.0,56500.0,0.068,12.18,Debt Consolidation,C,1,Performing
+APP-5414,665,91539.0,122800.0,0.069,20.69,Real Estate,C,1,Performing
+APP-5415,690,64963.0,122700.0,0.415,10.23,Working Capital,A,3,Performing
+APP-5416,568,283393.0,101600.0,0.646,16.48,Business Expansion,D,2,Performing
+APP-5417,687,46488.0,134300.0,0.357,12.61,Debt Consolidation,A,0,Performing
+APP-5418,776,93891.0,49000.0,0.306,14.32,Business Expansion,C,1,Performing
+APP-5419,592,25056.0,65500.0,0.229,23.12,Equipment,C,0,Performing
+APP-5420,560,41517.0,127400.0,0.628,3.87,Real Estate,B,0,Performing
+APP-5421,539,58267.0,65600.0,0.434,6.52,Real Estate,B,0,Performing
+APP-5422,730,50210.0,67100.0,0.22,23.6,Business Expansion,B,0,Defaulted
+APP-5423,674,,17900.0,0.521,5.73,Real Estate,A,2,Performing
+APP-5424,814,92433.0,48200.0,0.078,14.23,Working Capital,D,0,Performing
+APP-5425,835,134266.0,116500.0,0.2,3.59,Debt Consolidation,B,0,Performing
+APP-5426,615,54158.0,131900.0,0.335,7.68,Business Expansion,C,2,Performing
+APP-5427,749,52925.0,81800.0,0.135,18.07,Debt Consolidation,A,0,Performing
+APP-5428,637,108612.0,121800.0,0.157,12.6,Real Estate,A,0,Performing
+APP-5429,737,34807.0,102000.0,0.381,18.29,Working Capital,B,0,Performing
+APP-5430,637,42502.0,17300.0,0.137,17.43,Business Expansion,A,0,Performing
+APP-5431,642,64720.0,84700.0,0.241,5.92,Working Capital,B,0,Performing
+APP-5432,529,95431.0,95900.0,0.487,20.47,Equipment,D,0,Defaulted
+APP-5433,689,59203.0,80300.0,0.109,10.85,Working Capital,A,0,Performing
+APP-5434,623,49436.0,57200.0,0.296,16.33,Debt Consolidation,A,0,Performing
+APP-5435,612,81261.0,126300.0,0.436,15.45,Real Estate,,0,Performing
+APP-5436,683,129766.0,128100.0,0.488,14.99,Working Capital,B,0,Performing
+APP-5437,611,56177.0,51200.0,0.534,10.07,Working Capital,D,1,Performing
+APP-5438,768,128814.0,106800.0,0.559,19.92,Debt Consolidation,B,0,Defaulted
+APP-5439,524,38673.0,90900.0,0.564,20.34,Real Estate,C,0,Performing
+APP-5440,566,49785.0,39100.0,0.554,16.77,Equipment,A,1,Performing
+APP-5441,696,34782.0,47700.0,0.579,22.53,Real Estate,B,0,Performing
+APP-5442,599,49361.0,140700.0,0.216,15.97,Working Capital,A,2,Performing
+APP-5443,560,167331.0,54300.0,0.608,15.01,Working Capital,A,0,Performing
+APP-5444,686,29172.0,18100.0,0.332,5.69,Real Estate,B,0,Performing
+APP-5445,649,51522.0,43200.0,0.252,11.9,Debt Consolidation,B,0,Performing
+APP-5446,846,67208.0,76200.0,0.636,14.55,Debt Consolidation,A,0,Performing
+APP-5447,580,65998.0,135600.0,0.428,17.95,Debt Consolidation,C,0,Performing
+APP-5448,632,26623.0,148600.0,0.275,16.02,Real Estate,B,0,Defaulted
+APP-5449,601,61968.0,23100.0,0.428,17.3,Debt Consolidation,B,,Performing
+APP-5450,718,35796.0,33000.0,0.349,11.86,Working Capital,C,0,Performing
+APP-5451,762,32944.0,18200.0,0.434,21.68,Debt Consolidation,A,0,Performing
+APP-5452,560,35183.0,119300.0,0.112,16.55,Business Expansion,,0,Performing
+APP-5453,601,105251.0,113800.0,0.253,10.96,Debt Consolidation,B,0,Performing
+APP-5454,738,53029.0,48300.0,0.577,23.43,Debt Consolidation,A,0,Performing
+APP-5455,705,167068.0,37700.0,0.334,19.12,Business Expansion,B,0,Performing
+APP-5456,802,58666.0,110100.0,0.32,8.04,Debt Consolidation,B,0,Performing
+APP-5457,753,37610.0,7500.0,0.079,3.76,Debt Consolidation,B,0,Performing
+APP-5458,775,294471.0,79700.0,0.08,10.62,Real Estate,C,1,Performing
+APP-5459,699,97191.0,118200.0,0.511,11.46,Debt Consolidation,B,2,Performing
+APP-5460,754,47574.0,51800.0,0.227,24.33,Debt Consolidation,D,0,Defaulted
+APP-5461,496,115451.0,123300.0,0.304,17.73,Real Estate,B,0,Performing
+APP-5462,606,97402.0,87400.0,0.162,8.7,Business Expansion,C,0,Performing
+APP-5463,809,88956.0,15800.0,0.183,20.2,Business Expansion,C,0,Performing
+APP-5464,666,125957.0,136600.0,0.588,15.46,Equipment,A,0,Performing
+APP-5465,813,102046.0,118300.0,0.648,22.35,Equipment,,0,Performing
+APP-5466,699,92473.0,60800.0,0.053,4.05,Business Expansion,B,0,Defaulted
+APP-5467,671,65495.0,6400.0,0.064,11.45,Equipment,B,0,Defaulted
+APP-5468,598,64139.0,45600.0,0.54,7.06,Debt Consolidation,A,0,Performing
+APP-5469,566,286079.0,54400.0,0.421,12.6,Real Estate,B,0,Performing
+APP-5470,550,36518.0,139800.0,0.191,22.25,Working Capital,D,0,Performing
+APP-5471,822,26057.0,89400.0,0.475,13.35,Working Capital,B,1,Performing
+APP-5472,731,,120900.0,0.403,20.96,Debt Consolidation,C,0,Performing
+APP-5473,513,43446.0,111600.0,0.231,23.3,Real Estate,B,0,Performing
+APP-5474,806,126326.0,24300.0,0.619,7.58,Business Expansion,B,0,Performing
+APP-5475,843,,135900.0,0.365,6.03,Business Expansion,A,0,Performing
+APP-5476,774,132902.0,28000.0,0.372,10.81,Working Capital,C,0,Performing
+APP-5477,825,64387.0,9200.0,0.608,10.98,Working Capital,A,0,Performing
+APP-5478,637,37485.0,100000.0,0.619,12.16,Equipment,B,0,Performing
+APP-5479,715,117494.0,143200.0,0.278,4.09,Equipment,B,0,Performing
+APP-5480,815,31543.0,117200.0,0.65,13.67,Business Expansion,B,0,Performing
+APP-5481,702,190636.0,115900.0,0.53,11.39,Equipment,C,0,Performing
+APP-5482,730,40948.0,17500.0,0.484,14.61,Equipment,,0,Performing
+APP-5483,500,45359.0,133200.0,0.389,16.81,Real Estate,A,0,Performing
+APP-5484,589,153437.0,83500.0,0.115,20.14,Working Capital,A,0,Performing
+APP-5485,512,87445.0,144900.0,0.209,3.78,Equipment,A,0,Performing
+APP-5486,740,78493.0,122000.0,0.062,15.46,Equipment,C,0,Performing
+APP-5487,675,63530.0,109500.0,0.621,15.84,Real Estate,C,0,Performing
+APP-5488,689,62375.0,40200.0,0.209,13.45,Real Estate,A,0,Performing
+APP-5489,616,33295.0,62700.0,0.234,3.66,Equipment,B,2,Performing
+APP-5490,524,25853.0,47300.0,0.185,5.32,Working Capital,C,0,Performing
+APP-5491,501,91111.0,86700.0,0.537,24.23,Working Capital,B,0,Performing
+APP-5492,532,80630.0,87600.0,0.152,15.48,Working Capital,C,0,Performing
+APP-5493,561,31540.0,123400.0,0.13,14.93,Business Expansion,B,0,Performing
+APP-5494,524,93072.0,37100.0,0.315,17.75,Working Capital,B,0,Performing
+APP-5495,794,75401.0,96400.0,0.057,6.26,Equipment,A,0,Defaulted
+APP-5496,541,61907.0,31100.0,0.301,19.32,Debt Consolidation,C,0,Performing
+APP-5497,661,84319.0,36800.0,0.381,13.7,Equipment,B,0,Performing
+APP-5498,771,55617.0,132700.0,0.533,15.02,Debt Consolidation,D,0,Performing
+APP-5499,580,,112800.0,0.348,18.89,Working Capital,C,,Performing
+APP-5500,806,116171.0,23100.0,0.162,21.11,Business Expansion,B,0,Performing
+APP-5501,675,108563.0,85400.0,0.455,17.54,Real Estate,A,1,Performing
+APP-5502,832,112884.0,48400.0,0.467,23.2,Real Estate,C,2,Performing
+APP-5503,515,242612.0,54100.0,0.336,22.32,Equipment,A,,Performing
+APP-5504,717,78118.0,135800.0,0.499,23.6,Real Estate,E,0,Performing
+APP-5505,832,54769.0,54600.0,0.395,11.49,Equipment,B,0,Defaulted
+APP-5506,498,32132.0,105500.0,0.167,14.15,Equipment,A,0,Defaulted
+APP-5507,845,43358.0,75700.0,0.34,20.17,Working Capital,C,0,Defaulted
+APP-5508,663,13696.0,130000.0,0.293,8.64,Real Estate,B,0,Defaulted
+APP-5509,513,70600.0,84100.0,0.522,24.04,Working Capital,C,0,Performing
+APP-5510,584,58492.0,129400.0,0.356,17.0,Working Capital,E,1,Performing
+APP-5511,701,31963.0,69400.0,0.178,22.58,Real Estate,C,0,Performing
+APP-5512,672,151918.0,22200.0,0.453,12.63,Debt Consolidation,A,1,Performing
+APP-5513,833,62564.0,113400.0,0.338,6.4,Working Capital,B,0,Performing
+APP-5514,804,38621.0,51600.0,0.281,10.9,Business Expansion,D,1,Defaulted
+APP-5515,810,66768.0,74300.0,0.541,8.08,Equipment,A,0,Performing
+APP-5516,603,73837.0,109700.0,0.632,14.29,Equipment,B,1,Performing
+APP-5517,540,,65600.0,0.56,4.77,Business Expansion,,1,Performing
+APP-5518,828,45011.0,116300.0,0.067,12.07,Debt Consolidation,C,3,Performing
+APP-5519,598,129366.0,111300.0,0.609,20.76,Business Expansion,B,0,Performing
+APP-5520,666,25070.0,85900.0,0.069,17.47,Debt Consolidation,B,0,Performing
+APP-5521,660,49621.0,55200.0,0.169,4.04,Business Expansion,A,0,Performing
+APP-5522,689,54959.0,97100.0,0.38,12.63,Working Capital,C,0,Performing
+APP-5523,662,154439.0,105200.0,0.068,23.72,Working Capital,A,0,Performing
+APP-5524,776,,110500.0,0.2,4.19,Equipment,A,5,Performing
+APP-5525,575,71153.0,89400.0,0.396,8.07,Business Expansion,C,0,Performing
+APP-5526,505,40718.0,62300.0,0.052,24.3,Debt Consolidation,B,0,Performing
+APP-5527,762,49794.0,113600.0,0.479,8.59,Working Capital,A,2,Performing
+APP-5528,575,65834.0,8400.0,0.602,20.01,Business Expansion,C,0,Defaulted
+APP-5529,501,122531.0,26800.0,0.071,12.97,Debt Consolidation,D,1,Performing
+APP-5530,829,209338.0,19600.0,0.073,22.64,Working Capital,A,0,Performing
+APP-5531,624,50540.0,91400.0,0.198,18.68,Business Expansion,C,0,Performing
+APP-5532,843,122608.0,79400.0,0.64,3.79,Debt Consolidation,B,0,Performing
+APP-5533,682,44652.0,6700.0,0.631,23.47,Working Capital,,2,Performing
+APP-5534,513,65278.0,143700.0,0.505,5.82,Working Capital,D,0,Defaulted
+APP-5535,754,77041.0,146000.0,0.278,24.04,Working Capital,C,0,Performing
+APP-5536,615,74909.0,31400.0,0.418,23.61,Working Capital,C,0,Performing
+APP-5537,515,56684.0,28800.0,0.492,12.72,Equipment,A,1,Performing
+APP-5538,819,62197.0,24100.0,0.126,7.34,Debt Consolidation,A,2,Defaulted
+APP-5539,491,242196.0,27400.0,0.189,21.67,Business Expansion,C,0,Performing
+APP-5540,575,127033.0,79900.0,0.164,12.64,Equipment,D,0,Performing
+APP-5541,821,53602.0,120500.0,0.194,10.91,Real Estate,C,1,Performing
+APP-5542,702,32728.0,20000.0,0.487,18.16,Real Estate,A,0,Performing
+APP-5543,771,169283.0,50800.0,0.33,23.52,Debt Consolidation,C,0,Performing
+APP-5544,498,95839.0,82200.0,0.522,12.0,Debt Consolidation,C,0,Performing
+APP-5545,847,40917.0,74800.0,0.203,21.64,Equipment,D,,Performing
+APP-5546,480,99887.0,53500.0,0.324,9.26,Real Estate,D,1,Performing
+APP-5547,750,72812.0,139800.0,0.252,3.52,Equipment,C,0,Performing
+APP-5548,635,53341.0,42800.0,0.163,11.66,Business Expansion,C,0,Performing
+APP-5549,573,58373.0,69800.0,0.32,22.45,Debt Consolidation,E,0,Performing
+APP-5012,745,30167.0,5100.0,0.265,18.7,Real Estate,C,1,Defaulted
+APP-5034,692,66402.0,6100.0,0.201,9.84,Business Expansion,B,1,Performing

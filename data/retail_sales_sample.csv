@@ -1,0 +1,606 @@
+Order_ID,Product_Category,Region,Sales_Channel,Unit_Price,Quantity,Discount_Pct,Shipping_Days,Customer_Rating,Returned,Revenue,Profit_Margin_Pct
+ORD-1000,Cloud Software,North America,Direct Sales,54.1,3,43.2,7,4.0,No,92.19,18.9
+ORD-1001,Consulting Services,North America,Reseller,578.56,10,7.5,14,4.0,No,5351.68,17.1
+ORD-1002,Office Infrastructure,North America,Online Portal,113.12,10,0.3,2,1.0,No,1127.81,32.4
+ORD-1003,Office Infrastructure,North America,Direct Sales,96.91,10,2.4,7,2.0,No,945.84,43.4
+ORD-1004,Enterprise Hardware,North America,Online Portal,417.06,15,0.1,1,4.0,No,6249.64,4.4
+ORD-1005,Enterprise Hardware,EMEA,Direct Sales,299.7,5,7.4,1,5.0,No,1387.61,29.6
+ORD-1006,Enterprise Hardware,North America,Partner Network,325.28,5,12.9,2,4.0,No,1416.59,17.4
+ORD-1007,Security Appliances,North America,Online Portal,265.04,4,10.1,1,3.0,No,953.08,40.6
+ORD-1008,Office Infrastructure,EMEA,Online Portal,161.0,10,48.7,7,2.0,Yes,825.93,25.7
+ORD-1009,Office Infrastructure,APAC,Reseller,204.31,4,30.8,1,5.0,No,565.53,30.1
+ORD-1010,Enterprise Hardware,North America,Online Portal,142.01,2,7.2,2,3.0,No,263.57,28.5
+ORD-1011,Consulting Services,APAC,Online Portal,133.28,4,37.8,2,4.0,No,331.6,42.0
+ORD-1012,Security Appliances,EMEA,Partner Network,-45.0,15,44.1,2,1.0,No,2911.61,53.1
+ORD-1013,Enterprise Hardware,North America,Online Portal,101.49,20,1.6,1,2.0,No,1997.32,14.9
+ORD-1014,Enterprise Hardware,LATAM,Partner Network,142.49,3,16.6,5,4.0,No,356.51,17.1
+ORD-1015,Enterprise Hardware,LATAM,Partner Network,209.9,10,1.9,2,4.0,No,2059.12,32.4
+ORD-1016,Cloud Software,North America,Partner Network,244.9,20,25.9,7,3.0,No,3629.42,18.7
+ORD-1017,Cloud Software,North America,Partner Network,116.87,4,0.5,7,3.0,No,465.14,39.7
+ORD-1018,Cloud Software,APAC,Direct Sales,100.1,3,12.3,1,5.0,No,263.36,41.6
+ORD-1019,Cloud Software,APAC,Reseller,284.22,5,32.3,7,3.0,No,962.08,21.9
+ORD-1020,Office Infrastructure,North America,Direct Sales,258.36,1,11.7,1,4.0,No,228.13,19.3
+ORD-1021,Enterprise Hardware,North America,Online Portal,413.87,3,1.5,2,,No,1222.99,25.2
+ORD-1022,Cloud Software,North America,Direct Sales,246.79,15,1.1,1,3.0,No,3661.13,29.7
+ORD-1023,Cloud Software,EMEA,Direct Sales,297.07,15,3.9,3,5.0,,4282.26,32.3
+ORD-1024,Cloud Software,EMEA,Online Portal,165.43,4,12.6,3,3.0,Yes,578.34,1.5
+ORD-1025,Security Appliances,North America,Online Portal,168.81,2,20.5,5,4.0,No,268.41,16.9
+ORD-1026,Enterprise Hardware,EMEA,Online Portal,123.12,15,12.8,3,4.0,No,1610.41,23.7
+ORD-1027,Cloud Software,APAC,Direct Sales,166.21,15,3.5,5,,Yes,2405.89,18.9
+ORD-1028,Office Infrastructure,North America,Direct Sales,202.9,4,3.5,2,3.0,No,783.19,-5.9
+ORD-1029,Enterprise Hardware,North America,Online Portal,395.72,3,23.8,5,4.0,No,904.62,5.8
+ORD-1030,Office Infrastructure,APAC,Reseller,154.24,2,4.2,2,,Yes,295.52,12.8
+ORD-1031,Enterprise Hardware,LATAM,Reseller,550.19,20,40.7,2,4.0,Yes,6525.25,27.1
+ORD-1032,Enterprise Hardware,EMEA,Partner Network,308.7,1,4.1,2,4.0,No,296.04,23.3
+ORD-1033,Consulting Services,EMEA,Online Portal,280.94,10,3.4,2,3.0,No,2713.88,20.9
+ORD-1034,Consulting Services,North America,Partner Network,238.1,5,0.7,3,4.0,No,1182.17,38.1
+ORD-1035,Security Appliances,EMEA,Reseller,217.81,15,14.7,7,1.0,No,2786.88,38.1
+ORD-1036,Cloud Software,EMEA,Partner Network,178.15,4,0.2,1,1.0,No,711.17,30.3
+ORD-1037,Enterprise Hardware,North America,Online Portal,114.45,10,6.3,5,4.0,No,1072.4,29.9
+ORD-1038,Office Infrastructure,North America,Online Portal,156.85,5,44.0,5,3.0,No,439.18,18.2
+ORD-1039,Cloud Software,North America,Online Portal,458.93,5,60.8,7,,No,899.5,19.7
+ORD-1040,Enterprise Hardware,North America,Direct Sales,300.34,20,25.3,2,5.0,No,4487.08,8.0
+ORD-1041,Cloud Software,North America,Partner Network,457.12,20,6.9,3,4.0,No,8511.57,25.5
+ORD-1042,Enterprise Hardware,North America,Reseller,,20,6.8,10,5.0,No,3280.27,37.9
+ORD-1043,Consulting Services,North America,Reseller,139.99,8,48.2,5,4.0,No,580.12,44.8
+ORD-1044,Cloud Software,North America,Reseller,237.03,8,29.2,3,2.0,Yes,1342.54,25.6
+ORD-1045,Office Infrastructure,LATAM,Direct Sales,159.66,0,15.8,2,5.0,No,672.17,34.4
+ORD-1046,Cloud Software,EMEA,Direct Sales,259.51,20,64.0,2,3.0,No,1868.47,-5.8
+ORD-1047,Cloud Software,APAC,Online Portal,102.4,15,2.2,3,3.0,Yes,1502.21,23.3
+ORD-1048,Cloud Software,APAC,Reseller,77.44,10,58.1,5,5.0,No,324.47,23.0
+ORD-1049,Enterprise Hardware,EMEA,Direct Sales,276.11,10,7.3,2,4.0,No,2559.54,46.4
+ORD-1050,Consulting Services,North America,Online Portal,464.63,8,17.3,3,5.0,Yes,3073.99,33.2
+ORD-1051,Security Appliances,EMEA,Reseller,,5,22.5,3,3.0,No,1091.12,34.4
+ORD-1052,Consulting Services,EMEA,Partner Network,298.98,4,13.2,3,4.0,No,1038.06,33.8
+ORD-1053,Security Appliances,APAC,Online Portal,241.64,3,8.0,5,2.0,No,666.93,29.0
+ORD-1054,Office Infrastructure,EMEA,Direct Sales,252.11,3,14.6,7,4.0,No,645.91,46.9
+ORD-1055,Consulting Services,North America,Direct Sales,111.52,8,21.4,3,5.0,No,701.24,0.8
+ORD-1056,Enterprise Hardware,North America,Online Portal,162.56,4,31.8,7,4.0,Yes,443.46,30.3
+ORD-1057,Enterprise Hardware,North America,Online Portal,393.93,8,36.5,2,3.0,No,2001.16,42.1
+ORD-1058,Enterprise Hardware,EMEA,Direct Sales,134.12,3,4.0,2,1.0,No,386.27,5.8
+ORD-1059,Cloud Software,EMEA,Partner Network,200.8,4,22.2,2,2.0,No,624.89,38.6
+ORD-1060,Cloud Software,North America,Reseller,390.42,20,12.0,2,4.0,No,6871.39,19.4
+ORD-1061,Cloud Software,,Partner Network,248.98,5,0.5,2,5.0,No,1238.68,29.8
+ORD-1062,Security Appliances,EMEA,Online Portal,254.7,10,31.8,2,3.0,No,1737.05,19.1
+ORD-1063,Cloud Software,North America,Partner Network,201.51,2,21.7,7,4.0,No,315.56,40.0
+ORD-1064,Cloud Software,North America,Direct Sales,318.48,5,5.1,2,5.0,No,1511.19,25.0
+ORD-1065,Cloud Software,North America,Online Portal,352.67,20,19.1,5,4.0,No,5706.2,38.6
+ORD-1066,Enterprise Hardware,North America,Reseller,158.32,3,50.3,1,4.0,No,236.06,33.7
+ORD-1067,Security Appliances,North America,Direct Sales,117.06,20,12.7,10,5.0,No,2043.87,19.0
+ORD-1068,Enterprise Hardware,North America,Direct Sales,85.89,8,16.6,5,3.0,No,573.06,34.5
+ORD-1069,Consulting Services,North America,Reseller,292.62,4,22.1,1,3.0,No,911.8,20.5
+ORD-1070,Security Appliances,North America,Reseller,277.87,10,9.6,5,1.0,No,2511.94,29.3
+ORD-1071,Enterprise Hardware,LATAM,Partner Network,619.47,15,22.5,3,,No,7201.34,24.8
+ORD-1072,Enterprise Hardware,North America,Online Portal,242.28,8,22.4,5,5.0,No,1504.07,39.3
+ORD-1073,Security Appliances,EMEA,Reseller,222.81,5,21.7,3,5.0,,872.3,35.0
+ORD-1074,Office Infrastructure,EMEA,Reseller,263.42,8,39.3,5,2.0,No,1279.17,28.1
+ORD-1075,Office Infrastructure,,Online Portal,269.83,5,47.5,5,4.0,No,708.3,20.3
+ORD-1076,Security Appliances,North America,Reseller,214.94,15,5.9,3,2.0,No,3033.88,13.3
+ORD-1077,Enterprise Hardware,North America,Reseller,160.85,1,22.3,1,1.0,No,124.98,30.1
+ORD-1078,Cloud Software,,Partner Network,236.39,10,3.7,7,4.0,No,2276.44,20.9
+ORD-1079,Enterprise Hardware,LATAM,Direct Sales,232.35,2,24.5,3,,No,350.85,6.0
+ORD-1080,Security Appliances,APAC,Direct Sales,230.64,20,24.1,3,5.0,No,3501.12,12.5
+ORD-1081,Office Infrastructure,North America,Direct Sales,333.28,1,54.3,1,4.0,Yes,152.31,48.0
+ORD-1082,Cloud Software,North America,Direct Sales,234.45,8,17.1,3,2.0,Yes,1554.87,20.6
+ORD-1083,Enterprise Hardware,APAC,Reseller,,20,14.9,,3.0,No,2015.0,41.5
+ORD-1084,Cloud Software,LATAM,Online Portal,173.5,1,9.3,2,3.0,No,157.36,24.2
+ORD-1085,Cloud Software,EMEA,Online Portal,213.72,4,9.7,3,5.0,No,771.96,43.4
+ORD-1086,Office Infrastructure,EMEA,Partner Network,239.51,4,4.5,5,5.0,No,914.93,42.5
+ORD-1087,Office Infrastructure,North America,Partner Network,295.35,20,40.4,7,4.0,No,3520.57,18.6
+ORD-1088,Security Appliances,APAC,Reseller,240.37,350,7.9,3,4.0,No,1106.9,4.6
+ORD-1089,Cloud Software,North America,Online Portal,78.39,5,43.4,3,1.0,No,221.84,5.7
+ORD-1090,Enterprise Hardware,North America,Online Portal,125.54,8,20.8,10,3.0,No,795.42,18.8
+ORD-1091,Office Infrastructure,EMEA,Direct Sales,304.32,1,2.2,5,4.0,No,297.62,51.2
+ORD-1092,Security Appliances,EMEA,Reseller,211.03,1,56.1,2,2.0,No,92.64,23.6
+ORD-1093,Office Infrastructure,North America,Reseller,,20,48.2,1,4.0,No,2587.51,30.2
+ORD-1094,Security Appliances,North America,Direct Sales,198.78,3,2.8,3,5.0,No,579.64,44.1
+ORD-1095,Cloud Software,EMEA,Reseller,173.15,4,29.1,2,4.0,No,491.05,29.8
+ORD-1096,Cloud Software,North America,Reseller,202.16,1,50.1,2,2.0,No,100.88,29.4
+ORD-1097,Cloud Software,EMEA,Partner Network,251.11,20,0.2,7,3.0,Yes,5012.16,36.0
+ORD-1098,Enterprise Hardware,North America,Online Portal,233.66,15,4.9,1,4.0,No,3333.16,32.0
+ORD-1099,Enterprise Hardware,EMEA,Reseller,351.66,2,40.0,5,4.0,No,421.99,27.3
+ORD-1100,Enterprise Hardware,EMEA,Partner Network,106.89,15,3.2,2,4.0,No,1552.04,19.8
+ORD-1101,Office Infrastructure,North America,Online Portal,114.64,10,19.5,5,4.0,No,922.85,29.4
+ORD-1102,Cloud Software,North America,Direct Sales,209.89,8,9.7,5,4.0,No,1516.25,41.6
+ORD-1103,Cloud Software,North America,Partner Network,296.84,1,10.4,1,5.0,No,265.97,49.9
+ORD-1104,Consulting Services,North America,Partner Network,325.31,10,29.1,3,3.0,No,2306.45,32.0
+ORD-1105,Enterprise Hardware,,Online Portal,176.44,10,6.4,2,5.0,No,1651.48,37.6
+ORD-1106,Cloud Software,North America,Direct Sales,50.45,20,39.5,7,3.0,No,610.44,31.7
+ORD-1107,Security Appliances,APAC,Partner Network,179.17,1,14.8,7,2.0,No,152.65,27.5
+ORD-1108,Enterprise Hardware,North America,Reseller,278.26,2,4.3,3,4.0,No,532.59,34.7
+ORD-1109,Enterprise Hardware,APAC,Reseller,231.68,20,4.9,3,4.0,No,4406.55,42.8
+ORD-1110,Cloud Software,APAC,Reseller,301.66,20,33.3,3,5.0,No,4024.14,17.9
+ORD-1111,Enterprise Hardware,EMEA,Direct Sales,387.91,8,12.6,5,4.0,No,2712.27,11.1
+ORD-1112,Consulting Services,EMEA,Partner Network,216.63,8,5.5,3,5.0,No,1637.72,22.1
+ORD-1113,Security Appliances,EMEA,Reseller,188.65,4,31.7,2,5.0,No,515.39,31.0
+ORD-1114,Office Infrastructure,North America,Direct Sales,150.22,4,5.8,3,4.0,No,566.03,38.9
+ORD-1115,Security Appliances,LATAM,Reseller,114.31,5,18.2,1,4.0,Yes,467.53,16.6
+ORD-1116,Security Appliances,APAC,Online Portal,98.84,3,2.8,5,4.0,No,288.22,-1.4
+ORD-1117,Enterprise Hardware,,Partner Network,168.27,1,21.9,1,,No,131.42,22.4
+ORD-1118,Security Appliances,North America,Partner Network,364.64,1,5.8,5,5.0,No,343.49,26.2
+ORD-1119,Cloud Software,APAC,Direct Sales,314.48,10,1.0,2,2.0,No,3113.35,14.6
+ORD-1120,Security Appliances,LATAM,Direct Sales,184.5,1,1.9,2,5.0,Yes,180.99,19.4
+ORD-1121,Security Appliances,North America,Partner Network,552.52,1,21.5,5,3.0,No,433.73,38.9
+ORD-1122,Cloud Software,North America,Reseller,173.83,3,30.6,,4.0,Yes,361.91,29.4
+ORD-1123,Enterprise Hardware,APAC,Reseller,404.07,4,1.6,5,3.0,No,1590.42,32.6
+ORD-1124,Enterprise Hardware,EMEA,Online Portal,445.9,4,1.0,2,4.0,No,1765.76,24.2
+ORD-1125,Cloud Software,APAC,Reseller,286.63,2,4.3,2,5.0,No,548.61,19.5
+ORD-1126,Security Appliances,North America,Direct Sales,167.52,1,10.3,7,3.0,Yes,150.27,24.1
+ORD-1127,Security Appliances,APAC,Direct Sales,196.06,3,1.7,3,2.0,No,578.18,34.5
+ORD-1128,Enterprise Hardware,North America,Reseller,253.85,4,5.4,2,3.0,No,960.57,10.6
+ORD-1129,Cloud Software,North America,Direct Sales,115.98,3,0.5,7,4.0,Yes,346.2,48.3
+ORD-1130,Cloud Software,North America,Partner Network,143.33,15,15.1,7,3.0,No,1825.31,35.4
+ORD-1131,Enterprise Hardware,APAC,Partner Network,137.54,1,5.4,,3.0,No,130.11,22.1
+ORD-1132,Enterprise Hardware,APAC,Reseller,296.23,2,14.1,10,3.0,No,508.92,38.3
+ORD-1133,Cloud Software,EMEA,Partner Network,386.26,10,36.3,7,4.0,No,2460.48,43.2
+ORD-1134,Consulting Services,North America,Partner Network,319.92,4,31.7,1,3.0,No,874.02,24.5
+ORD-1135,Cloud Software,LATAM,Online Portal,358.3,15,32.2,2,4.0,No,3643.91,25.9
+ORD-1136,Cloud Software,North America,Online Portal,160.76,3,30.9,3,2.0,No,333.26,46.4
+ORD-1137,Office Infrastructure,APAC,Partner Network,200.19,8,5.3,3,4.0,No,1516.64,53.9
+ORD-1138,Cloud Software,EMEA,Reseller,207.28,20,11.8,3,3.0,No,3656.42,28.9
+ORD-1139,Consulting Services,North America,Online Portal,286.12,1,29.6,3,4.0,No,201.43,14.6
+ORD-1140,Consulting Services,EMEA,Direct Sales,170.5,1,6.0,3,3.0,No,160.27,22.9
+ORD-1141,Cloud Software,North America,Direct Sales,348.58,15,0.6,3,4.0,No,5197.33,40.9
+ORD-1142,Cloud Software,APAC,Direct Sales,440.42,3,4.6,1,5.0,No,18500.0,16.1
+ORD-1143,Cloud Software,EMEA,Reseller,292.6,5,53.4,2,5.0,No,681.76,26.0
+ORD-1144,Cloud Software,North America,Partner Network,196.09,1,1.9,3,4.0,No,192.36,32.0
+ORD-1145,Enterprise Hardware,LATAM,Direct Sales,153.92,5,15.5,5,4.0,No,650.31,17.4
+ORD-1146,Office Infrastructure,North America,Reseller,137.7,8,11.7,2,5.0,No,972.71,41.7
+ORD-1147,Cloud Software,EMEA,Online Portal,78.87,15,37.1,3,4.0,No,744.14,36.8
+ORD-1148,Enterprise Hardware,LATAM,Partner Network,210.24,3,42.9,5,3.0,No,360.14,52.6
+ORD-1149,Cloud Software,EMEA,Online Portal,204.69,3,42.6,3,5.0,No,352.48,37.9
+ORD-1150,Consulting Services,North America,Reseller,339.16,20,14.4,1,4.0,No,5806.42,17.0
+ORD-1151,Enterprise Hardware,LATAM,Direct Sales,175.85,4,13.4,3,3.0,No,609.14,34.9
+ORD-1152,Enterprise Hardware,EMEA,Direct Sales,215.74,4,4.2,2,3.0,No,826.72,40.4
+ORD-1153,Cloud Software,North America,Reseller,265.21,10,12.1,10,3.0,Yes,2331.2,41.0
+ORD-1154,Consulting Services,North America,Direct Sales,290.48,2,5.5,2,4.0,No,549.01,19.2
+ORD-1155,Enterprise Hardware,APAC,Partner Network,322.05,15,4.3,5,3.0,No,4623.03,17.7
+ORD-1156,Office Infrastructure,EMEA,Reseller,253.44,8,2.6,1,2.0,No,1974.8,14.8
+ORD-1157,Security Appliances,EMEA,Online Portal,119.42,3,18.8,3,2.0,No,290.91,47.8
+ORD-1158,Enterprise Hardware,LATAM,Reseller,279.22,20,25.6,3,4.0,No,4154.79,36.0
+ORD-1159,Office Infrastructure,APAC,Partner Network,169.81,5,1.9,2,4.0,No,832.92,18.6
+ORD-1160,Cloud Software,North America,Partner Network,394.27,15,7.5,3,3.0,No,5470.5,30.0
+ORD-1161,Office Infrastructure,North America,Reseller,235.64,10,2.9,2,1.0,No,2288.06,27.0
+ORD-1162,Office Infrastructure,North America,Reseller,260.32,15,8.6,3,2.0,No,3568.99,16.8
+ORD-1163,Cloud Software,APAC,Direct Sales,642.26,10,5.8,5,5.0,No,6050.09,28.9
+ORD-1164,Enterprise Hardware,North America,Partner Network,324.53,3,1.4,3,4.0,No,959.96,30.8
+ORD-1165,Security Appliances,EMEA,Reseller,276.97,2,8.5,7,4.0,No,506.86,51.7
+ORD-1166,Cloud Software,APAC,Reseller,218.7,10,52.3,5,1.0,No,1043.2,20.6
+ORD-1167,Enterprise Hardware,LATAM,Partner Network,124.5,3,9.8,3,4.0,No,336.9,8.0
+ORD-1168,Enterprise Hardware,North America,Reseller,211.48,3,40.3,1,4.0,No,378.76,15.9
+ORD-1169,Office Infrastructure,APAC,Direct Sales,153.0,2,46.3,3,3.0,Yes,164.32,17.8
+ORD-1170,Office Infrastructure,North America,Partner Network,464.17,4,46.9,5,2.0,Yes,985.9,23.4
+ORD-1171,Enterprise Hardware,APAC,Direct Sales,278.61,15,14.1,2,4.0,No,3589.89,15.9
+ORD-1172,Cloud Software,North America,Direct Sales,387.92,1,6.4,7,5.0,No,363.09,38.4
+ORD-1173,Enterprise Hardware,North America,Direct Sales,173.47,1,1.7,2,5.0,No,170.52,15.1
+ORD-1174,Office Infrastructure,APAC,Direct Sales,158.41,5,4.8,7,4.0,No,754.03,28.7
+ORD-1175,Enterprise Hardware,North America,Partner Network,310.59,5,7.5,1,4.0,No,1436.48,52.5
+ORD-1176,Office Infrastructure,North America,Direct Sales,150.0,1,12.0,7,2.0,No,132.0,35.1
+ORD-1177,Cloud Software,APAC,Direct Sales,189.2,8,5.6,3,4.0,Yes,1428.84,33.9
+ORD-1178,Consulting Services,APAC,Reseller,473.99,1,23.6,2,4.0,No,362.13,50.8
+ORD-1179,Enterprise Hardware,EMEA,Partner Network,192.77,5,14.6,2,3.0,No,823.13,43.4
+ORD-1180,Cloud Software,APAC,Partner Network,111.22,20,6.8,3,5.0,No,2073.14,35.3
+ORD-1181,Enterprise Hardware,EMEA,Online Portal,90.14,5,21.5,,3.0,No,353.8,24.8
+ORD-1182,Consulting Services,North America,Partner Network,104.29,8,13.0,2,3.0,No,725.86,28.2
+ORD-1183,Security Appliances,North America,Partner Network,398.0,15,29.7,2,4.0,No,4196.91,27.6
+ORD-1184,Cloud Software,North America,Online Portal,178.66,1,10.7,3,4.0,No,159.54,23.7
+ORD-1185,Office Infrastructure,LATAM,Partner Network,633.08,2,6.1,3,4.0,No,1188.92,31.0
+ORD-1186,Security Appliances,EMEA,Partner Network,442.68,20,5.2,3,2.0,Yes,8393.21,32.7
+ORD-1187,Office Infrastructure,EMEA,Partner Network,524.01,3,2.7,5,5.0,No,1529.59,13.6
+ORD-1188,Cloud Software,EMEA,Partner Network,362.34,8,2.2,2,4.0,No,2834.95,48.1
+ORD-1189,Enterprise Hardware,LATAM,Online Portal,303.36,5,2.1,10,4.0,No,1484.95,33.4
+ORD-1190,Enterprise Hardware,North America,Partner Network,155.65,2,50.2,3,,No,155.03,25.3
+ORD-1191,Security Appliances,EMEA,Partner Network,232.97,10,3.2,2,4.0,No,2255.15,31.2
+ORD-1192,Consulting Services,EMEA,Online Portal,316.92,4,8.3,5,2.0,Yes,1162.46,39.7
+ORD-1193,Office Infrastructure,EMEA,Reseller,352.48,1,31.7,5,5.0,No,240.74,10.9
+ORD-1194,Cloud Software,North America,Direct Sales,130.47,4,5.0,3,2.0,Yes,495.79,27.2
+ORD-1195,Cloud Software,LATAM,Reseller,213.03,8,19.3,5,1.0,No,1375.32,14.3
+ORD-1196,Office Infrastructure,LATAM,Online Portal,224.52,10,1.2,2,4.0,No,2218.26,60.4
+ORD-1197,Security Appliances,EMEA,Direct Sales,220.43,10,2.8,3,,,2142.58,30.2
+ORD-1198,Security Appliances,APAC,Online Portal,139.27,10,14.8,7,3.0,No,1186.58,14.4
+ORD-1199,Security Appliances,LATAM,Online Portal,496.36,3,10.2,2,4.0,No,1337.19,71.7
+ORD-1200,Office Infrastructure,APAC,Partner Network,209.72,8,20.9,3,3.0,No,1327.11,22.1
+ORD-1201,Enterprise Hardware,North America,Direct Sales,144.29,15,0.8,7,4.0,No,2147.04,26.0
+ORD-1202,Enterprise Hardware,EMEA,Partner Network,501.82,4,3.4,14,4.0,No,1939.03,26.9
+ORD-1203,Security Appliances,EMEA,Direct Sales,442.87,15,13.6,3,4.0,Yes,5739.6,18.3
+ORD-1204,Office Infrastructure,EMEA,Online Portal,248.88,2,4.7,3,3.0,No,474.37,31.5
+ORD-1205,Enterprise Hardware,APAC,Online Portal,89.7,20,11.5,3,4.0,No,1587.69,2.0
+ORD-1206,Enterprise Hardware,LATAM,Reseller,186.53,20,3.7,10,,Yes,3592.57,41.5
+ORD-1207,Office Infrastructure,LATAM,Direct Sales,99.99,15,3.6,7,4.0,No,1445.86,15.0
+ORD-1208,Enterprise Hardware,EMEA,Partner Network,,1,6.4,2,4.0,No,274.55,23.5
+ORD-1209,Enterprise Hardware,North America,Reseller,180.39,2,10.2,3,5.0,No,323.98,37.5
+ORD-1210,Cloud Software,,Reseller,230.37,8,19.7,3,1.0,No,1479.9,26.0
+ORD-1211,Office Infrastructure,APAC,Reseller,481.88,5,14.4,5,4.0,No,2062.45,26.5
+ORD-1212,Office Infrastructure,North America,Partner Network,174.14,20,38.9,5,5.0,,2127.99,16.4
+ORD-1213,Enterprise Hardware,LATAM,Reseller,287.72,5,7.7,5,2.0,No,1327.83,53.6
+ORD-1214,Office Infrastructure,LATAM,Partner Network,326.25,2,25.8,,4.0,No,484.16,34.9
+ORD-1215,Enterprise Hardware,EMEA,Reseller,392.53,4,3.9,1,3.0,No,1508.89,15.5
+ORD-1216,Cloud Software,EMEA,Partner Network,222.68,20,41.0,2,4.0,No,2627.62,30.6
+ORD-1217,Office Infrastructure,North America,Online Portal,212.02,1,12.8,3,4.0,No,184.88,14.7
+ORD-1218,Office Infrastructure,North America,Online Portal,209.72,1,18.3,3,3.0,No,171.34,49.2
+ORD-1219,Security Appliances,North America,Online Portal,275.31,10,12.5,1,4.0,No,2408.96,30.9
+ORD-1220,Office Infrastructure,APAC,Online Portal,434.55,3,45.1,1,3.0,No,715.7,16.8
+ORD-1221,Office Infrastructure,North America,Online Portal,205.26,2,1.1,5,4.0,No,406.0,36.9
+ORD-1222,Enterprise Hardware,North America,Reseller,57.22,20,31.3,7,3.0,No,786.2,25.2
+ORD-1223,Cloud Software,North America,Reseller,342.44,3,12.9,3,5.0,No,894.8,13.0
+ORD-1224,Cloud Software,EMEA,Reseller,240.64,2,6.7,3,1.0,No,449.03,33.1
+ORD-1225,Enterprise Hardware,LATAM,Partner Network,293.62,15,5.1,2,5.0,No,4179.68,32.7
+ORD-1226,Consulting Services,North America,Partner Network,101.98,8,0.2,5,4.0,No,814.21,42.2
+ORD-1227,Cloud Software,North America,Partner Network,180.73,8,5.6,5,3.0,No,1364.87,29.3
+ORD-1228,Security Appliances,APAC,Partner Network,330.07,10,21.6,3,4.0,No,2587.75,29.8
+ORD-1229,Office Infrastructure,EMEA,Online Portal,122.38,10,17.5,2,4.0,No,1009.63,30.4
+ORD-1230,Security Appliances,North America,Online Portal,287.43,8,6.3,1,4.0,No,2154.58,47.6
+ORD-1231,Cloud Software,EMEA,Online Portal,229.5,4,6.8,1,2.0,No,855.58,24.8
+ORD-1232,Office Infrastructure,North America,Direct Sales,162.64,20,54.4,3,4.0,No,1483.28,34.1
+ORD-1233,Cloud Software,North America,Reseller,156.3,8,34.1,7,3.0,No,824.01,35.9
+ORD-1234,Enterprise Hardware,EMEA,Partner Network,139.91,4,19.9,7,1.0,No,448.27,32.7
+ORD-1235,Office Infrastructure,EMEA,Partner Network,240.06,3,32.2,3,4.0,Yes,488.28,24.3
+ORD-1236,Cloud Software,LATAM,Online Portal,,4,12.6,5,2.0,Yes,884.17,29.9
+ORD-1237,Enterprise Hardware,North America,Partner Network,195.89,3,3.8,10,3.0,No,565.34,27.4
+ORD-1238,Office Infrastructure,EMEA,Partner Network,135.63,2,6.9,2,2.0,No,252.54,52.0
+ORD-1239,Enterprise Hardware,EMEA,Reseller,283.73,5,1.2,3,2.0,No,1401.63,23.0
+ORD-1240,Consulting Services,North America,Online Portal,345.22,2,25.8,10,3.0,No,512.31,17.5
+ORD-1241,Consulting Services,APAC,Reseller,306.8,8,17.9,3,,No,2015.06,28.4
+ORD-1242,Consulting Services,North America,Direct Sales,533.59,3,3.1,10,1.0,No,1551.15,27.6
+ORD-1243,Cloud Software,,Direct Sales,214.13,8,2.6,,4.0,No,1668.5,30.9
+ORD-1244,Enterprise Hardware,North America,Direct Sales,415.57,20,17.0,5,3.0,No,6898.46,23.0
+ORD-1245,Consulting Services,EMEA,Online Portal,170.28,1,10.1,7,5.0,,153.08,29.8
+ORD-1246,Cloud Software,North America,Partner Network,,8,0.9,5,2.0,No,1246.44,30.1
+ORD-1247,Consulting Services,,Online Portal,246.84,20,6.9,5,,No,4596.16,39.4
+ORD-1248,Consulting Services,EMEA,Online Portal,456.49,4,24.1,3,4.0,No,1385.9,29.6
+ORD-1249,Security Appliances,EMEA,Partner Network,203.21,2,12.2,1,1.0,No,356.84,29.7
+ORD-1250,Cloud Software,North America,Reseller,101.94,4,40.3,3,5.0,No,243.43,34.7
+ORD-1251,Cloud Software,APAC,Direct Sales,342.31,1,9.0,5,4.0,No,311.5,38.9
+ORD-1252,Security Appliances,North America,Reseller,225.03,3,29.5,2,3.0,No,475.94,16.7
+ORD-1253,Cloud Software,LATAM,Direct Sales,267.11,20,6.7,1,5.0,No,4984.27,13.5
+ORD-1254,Enterprise Hardware,North America,Online Portal,161.19,5,19.1,2,5.0,No,652.01,48.8
+ORD-1255,Office Infrastructure,North America,Direct Sales,245.78,8,5.5,5,4.0,Yes,1858.1,36.9
+ORD-1256,Consulting Services,North America,Online Portal,109.91,3,11.9,14,3.0,Yes,290.49,25.9
+ORD-1257,Office Infrastructure,EMEA,Reseller,499.8,5,3.6,,5.0,No,2409.04,28.7
+ORD-1258,Office Infrastructure,EMEA,Online Portal,370.51,15,27.8,3,4.0,No,4012.62,23.8
+ORD-1259,Enterprise Hardware,North America,Reseller,240.74,8,17.1,7,5.0,No,1596.59,31.0
+ORD-1260,Office Infrastructure,APAC,Partner Network,338.1,4,17.6,5,4.0,No,1114.38,16.8
+ORD-1261,Consulting Services,EMEA,Partner Network,170.5,2,50.1,3,3.0,No,170.16,38.6
+ORD-1262,Enterprise Hardware,EMEA,Partner Network,363.2,20,5.9,3,5.0,No,6835.42,30.6
+ORD-1263,Cloud Software,EMEA,Online Portal,199.01,1,3.6,2,2.0,No,191.85,31.0
+ORD-1264,Security Appliances,EMEA,Partner Network,192.39,1,5.7,10,3.0,No,181.42,17.8
+ORD-1265,Office Infrastructure,EMEA,Direct Sales,144.63,4,24.8,3,4.0,No,435.05,34.8
+ORD-1266,Office Infrastructure,North America,Reseller,282.14,10,5.2,3,4.0,Yes,2674.69,18.0
+ORD-1267,Office Infrastructure,North America,Reseller,235.96,1,3.1,5,1.0,No,228.65,20.2
+ORD-1268,Cloud Software,LATAM,Direct Sales,421.52,20,3.3,3,5.0,No,8152.2,29.6
+ORD-1269,Cloud Software,LATAM,Online Portal,136.37,4,2.9,2,4.0,No,529.66,58.6
+ORD-1270,Security Appliances,North America,Online Portal,282.72,3,22.3,5,4.0,Yes,659.02,30.6
+ORD-1271,Security Appliances,North America,Reseller,386.52,1,15.9,1,5.0,No,325.06,-2.3
+ORD-1272,Security Appliances,EMEA,Partner Network,639.69,4,6.8,5,4.0,No,2384.76,20.8
+ORD-1273,Consulting Services,EMEA,Online Portal,254.97,20,8.3,3,1.0,No,4676.15,36.7
+ORD-1274,Cloud Software,North America,Online Portal,197.23,8,3.3,5,3.0,No,1525.77,15.0
+ORD-1275,Cloud Software,North America,Direct Sales,252.01,8,4.2,5,,No,1931.4,38.5
+ORD-1276,Security Appliances,APAC,Direct Sales,406.55,1,23.9,3,2.0,No,309.38,30.4
+ORD-1277,Office Infrastructure,APAC,Partner Network,406.47,2,49.3,3,4.0,Yes,412.16,40.4
+ORD-1278,Office Infrastructure,North America,Online Portal,220.81,8,10.2,5,4.0,No,1586.3,21.8
+ORD-1279,Security Appliances,North America,Online Portal,403.33,2,0.2,5,4.0,Yes,805.05,20.9
+ORD-1280,Security Appliances,North America,Direct Sales,230.87,3,30.4,5,1.0,No,482.06,35.3
+ORD-1281,Cloud Software,APAC,Online Portal,336.42,4,2.9,7,4.0,No,1306.66,28.4
+ORD-1282,Cloud Software,North America,Reseller,297.51,5,25.3,2,4.0,Yes,1111.2,27.7
+ORD-1283,Enterprise Hardware,North America,Direct Sales,193.52,20,30.5,3,,No,2689.93,47.3
+ORD-1284,Office Infrastructure,APAC,Partner Network,147.21,4,11.8,10,3.0,No,519.36,35.7
+ORD-1285,Enterprise Hardware,North America,Direct Sales,,20,5.8,3,4.0,No,7367.19,4.6
+ORD-1286,Cloud Software,APAC,Online Portal,439.25,3,11.9,2,4.0,No,1160.94,38.1
+ORD-1287,Cloud Software,North America,Partner Network,279.71,15,4.1,3,4.0,No,4023.63,36.9
+ORD-1288,Cloud Software,North America,Direct Sales,,1,0.5,2,4.0,No,229.58,42.7
+ORD-1289,Office Infrastructure,North America,Reseller,127.75,20,34.3,2,3.0,No,1678.64,17.2
+ORD-1290,Enterprise Hardware,APAC,Reseller,386.56,20,10.1,,3.0,No,6950.35,32.4
+ORD-1291,Enterprise Hardware,LATAM,Direct Sales,265.29,2,24.4,3,4.0,No,401.12,29.8
+ORD-1292,Security Appliances,APAC,Reseller,206.47,4,6.8,2,4.0,No,769.72,17.0
+ORD-1293,Cloud Software,North America,Reseller,340.66,15,43.5,,4.0,No,2887.09,39.9
+ORD-1294,Enterprise Hardware,APAC,Reseller,116.05,10,9.7,14,3.0,Yes,1047.93,25.6
+ORD-1295,Cloud Software,North America,Partner Network,141.1,1,0.4,3,3.0,No,140.54,42.3
+ORD-1296,Security Appliances,North America,Reseller,167.52,5,1.6,2,1.0,No,824.2,19.6
+ORD-1297,Enterprise Hardware,LATAM,Reseller,,10,11.1,7,2.0,No,2607.97,11.0
+ORD-1298,Office Infrastructure,North America,Reseller,253.27,4,9.7,5,4.0,Yes,914.81,25.6
+ORD-1299,Enterprise Hardware,North America,Partner Network,308.82,1,8.8,5,5.0,No,281.64,31.3
+ORD-1300,Enterprise Hardware,North America,Direct Sales,374.89,20,2.7,7,3.0,No,7295.36,22.1
+ORD-1301,Cloud Software,North America,Online Portal,313.78,5,14.2,5,3.0,No,1346.12,-8.3
+ORD-1302,Cloud Software,North America,Reseller,504.58,2,2.2,2,2.0,No,986.96,33.1
+ORD-1303,Office Infrastructure,EMEA,Direct Sales,374.5,15,13.1,5,4.0,No,4881.61,33.0
+ORD-1304,Office Infrastructure,EMEA,Reseller,220.57,2,0.8,3,1.0,No,437.61,36.7
+ORD-1305,Consulting Services,LATAM,Partner Network,180.16,3,0.9,5,5.0,No,535.62,23.9
+ORD-1306,Cloud Software,APAC,Direct Sales,223.69,1,2.1,5,4.0,,218.99,23.3
+ORD-1307,Cloud Software,North America,Partner Network,318.66,2,3.6,1,,No,614.38,45.8
+ORD-1308,Security Appliances,North America,Reseller,189.39,10,19.7,3,5.0,No,1520.8,9.6
+ORD-1309,Cloud Software,North America,Reseller,322.58,2,9.2,3,4.0,No,585.81,25.5
+ORD-1310,Cloud Software,EMEA,Partner Network,306.31,8,10.9,3,4.0,Yes,2183.38,30.2
+ORD-1311,Enterprise Hardware,North America,Online Portal,146.18,3,7.4,5,3.0,No,406.09,35.8
+ORD-1312,Enterprise Hardware,EMEA,Partner Network,371.39,4,12.4,3,4.0,No,1301.35,30.5
+ORD-1313,Consulting Services,EMEA,Reseller,275.3,15,23.8,5,5.0,No,3146.68,17.4
+ORD-1314,Security Appliances,EMEA,Partner Network,493.52,3,25.9,1,2.0,No,1097.09,42.5
+ORD-1315,Office Infrastructure,EMEA,Online Portal,231.24,8,19.1,5,5.0,No,1496.59,28.5
+ORD-1316,Cloud Software,North America,Partner Network,,1,3.6,7,3.0,No,194.81,8.5
+ORD-1317,Enterprise Hardware,LATAM,Online Portal,137.02,10,14.6,5,5.0,No,1170.15,31.0
+ORD-1318,Enterprise Hardware,APAC,Online Portal,135.96,15,14.3,3,5.0,No,1747.77,34.2
+ORD-1319,Cloud Software,North America,Partner Network,351.77,15,58.9,14,4.0,No,2168.66,52.0
+ORD-1320,Cloud Software,LATAM,Partner Network,471.16,3,41.6,2,4.0,No,825.47,33.4
+ORD-1321,Office Infrastructure,EMEA,Direct Sales,222.23,1,5.0,1,4.0,No,211.12,10.7
+ORD-1322,Office Infrastructure,LATAM,Reseller,,20,4.9,3,5.0,No,4100.14,11.1
+ORD-1323,Cloud Software,APAC,Online Portal,240.98,8,27.5,1,,No,1397.68,43.6
+ORD-1324,Consulting Services,EMEA,Direct Sales,382.67,20,9.5,14,5.0,No,6926.33,18.9
+ORD-1325,Office Infrastructure,North America,Partner Network,146.82,10,4.1,2,4.0,No,1408.0,9.9
+ORD-1326,Office Infrastructure,North America,Reseller,260.04,1,29.1,5,4.0,No,184.37,40.5
+ORD-1327,Office Infrastructure,EMEA,Direct Sales,355.31,1,38.6,5,5.0,No,218.16,22.8
+ORD-1328,Cloud Software,EMEA,Online Portal,291.75,8,36.4,2,4.0,No,1484.42,39.9
+ORD-1329,Enterprise Hardware,North America,Direct Sales,46.21,5,3.5,5,5.0,No,222.96,17.5
+ORD-1330,Cloud Software,North America,Online Portal,314.48,20,11.5,1,4.0,No,5566.3,46.2
+ORD-1331,Security Appliances,APAC,Partner Network,293.02,2,8.2,3,2.0,No,537.98,39.0
+ORD-1332,Enterprise Hardware,,Reseller,415.38,15,6.3,1,4.0,Yes,5838.17,19.8
+ORD-1333,Enterprise Hardware,EMEA,Reseller,454.4,5,3.8,10,4.0,No,2185.66,8.6
+ORD-1334,Enterprise Hardware,North America,Reseller,406.13,2,2.1,14,3.0,Yes,795.2,56.2
+ORD-1335,Enterprise Hardware,North America,Partner Network,241.58,8,20.5,2,2.0,No,1536.45,26.0
+ORD-1336,Security Appliances,North America,Online Portal,99.55,15,11.6,2,4.0,Yes,1320.03,19.3
+ORD-1337,Office Infrastructure,LATAM,Partner Network,555.14,4,25.7,5,2.0,No,1649.88,45.1
+ORD-1338,Cloud Software,North America,Reseller,,2,25.4,2,3.0,No,320.56,39.8
+ORD-1339,Enterprise Hardware,EMEA,Partner Network,238.07,5,5.6,7,4.0,No,1123.69,42.7
+ORD-1340,Cloud Software,North America,Partner Network,468.48,2,37.2,3,,No,588.41,27.3
+ORD-1341,Cloud Software,EMEA,Partner Network,161.97,2,36.9,3,4.0,Yes,204.41,51.1
+ORD-1342,Enterprise Hardware,APAC,Online Portal,117.82,8,22.9,7,,No,726.71,12.8
+ORD-1343,Cloud Software,APAC,Direct Sales,189.97,20,28.6,3,4.0,No,2712.77,21.9
+ORD-1344,Cloud Software,North America,Direct Sales,166.25,4,0.2,10,3.0,No,663.67,33.2
+ORD-1345,Office Infrastructure,North America,Partner Network,112.01,8,50.6,10,4.0,No,442.66,42.5
+ORD-1346,Office Infrastructure,North America,Direct Sales,224.47,10,10.3,2,4.0,No,2013.5,36.4
+ORD-1347,Enterprise Hardware,LATAM,Direct Sales,242.35,8,32.8,1,4.0,No,1302.87,27.5
+ORD-1348,Cloud Software,LATAM,Partner Network,108.65,15,25.6,,1.0,No,1212.53,22.8
+ORD-1349,Office Infrastructure,EMEA,Partner Network,201.5,4,21.6,10,4.0,No,631.9,42.6
+ORD-1350,Cloud Software,EMEA,Reseller,161.16,1,6.0,1,1.0,Yes,151.49,37.7
+ORD-1351,Security Appliances,APAC,Direct Sales,83.74,10,2.0,7,4.0,No,820.65,18.0
+ORD-1352,Office Infrastructure,North America,Online Portal,245.98,3,57.3,3,3.0,No,315.1,17.6
+ORD-1353,Enterprise Hardware,LATAM,Partner Network,257.13,8,1.5,2,4.0,No,2026.18,22.0
+ORD-1354,Enterprise Hardware,EMEA,Reseller,161.17,2,18.4,7,4.0,No,263.03,20.4
+ORD-1355,Office Infrastructure,North America,Online Portal,369.92,20,1.4,2,1.0,No,7294.82,40.9
+ORD-1356,Enterprise Hardware,EMEA,Direct Sales,235.64,1,11.0,10,4.0,No,209.72,33.7
+ORD-1357,Office Infrastructure,North America,Reseller,164.88,8,6.3,2,4.0,No,1235.94,35.2
+ORD-1358,Consulting Services,North America,Partner Network,105.05,8,6.3,5,5.0,Yes,787.45,30.8
+ORD-1359,Office Infrastructure,APAC,Online Portal,263.39,5,2.3,2,5.0,No,1286.66,31.4
+ORD-1360,Cloud Software,North America,Partner Network,292.71,5,13.2,3,4.0,No,1270.36,9.5
+ORD-1361,Office Infrastructure,EMEA,Direct Sales,184.95,1,7.4,5,4.0,Yes,171.26,38.0
+ORD-1362,Cloud Software,North America,Online Portal,249.55,5,22.4,2,3.0,No,968.25,21.7
+ORD-1363,Cloud Software,North America,Direct Sales,454.39,2,19.7,3,3.0,No,729.75,28.1
+ORD-1364,Consulting Services,North America,Direct Sales,344.23,10,20.1,3,3.0,No,2750.4,22.8
+ORD-1365,Cloud Software,North America,Reseller,69.54,3,32.8,1,4.0,No,140.19,30.3
+ORD-1366,Consulting Services,APAC,Partner Network,163.96,4,24.8,7,3.0,No,493.19,35.4
+ORD-1367,Consulting Services,North America,Online Portal,219.44,3,19.7,3,2.0,No,528.63,16.4
+ORD-1368,Enterprise Hardware,EMEA,Direct Sales,241.73,3,38.2,3,4.0,No,448.17,31.5
+ORD-1369,Enterprise Hardware,EMEA,Direct Sales,252.03,4,1.5,3,4.0,Yes,993.0,23.1
+ORD-1370,Enterprise Hardware,APAC,Online Portal,284.4,5,7.4,3,4.0,No,1316.77,44.4
+ORD-1371,Enterprise Hardware,LATAM,Direct Sales,222.85,1,6.8,2,2.0,Yes,207.7,15.1
+ORD-1372,Enterprise Hardware,APAC,Reseller,235.38,4,2.1,3,4.0,Yes,921.75,16.5
+ORD-1373,Office Infrastructure,North America,Reseller,,15,5.7,3,4.0,No,4981.44,24.2
+ORD-1374,Enterprise Hardware,North America,Reseller,265.74,10,22.6,5,4.0,No,2056.83,17.4
+ORD-1375,Cloud Software,North America,Reseller,130.32,20,56.6,7,3.0,No,1131.18,25.8
+ORD-1376,Security Appliances,EMEA,Direct Sales,245.26,5,1.1,3,4.0,No,1212.81,22.2
+ORD-1377,Enterprise Hardware,North America,Online Portal,219.72,4,4.1,1,5.0,No,842.85,29.6
+ORD-1378,Security Appliances,EMEA,Online Portal,83.38,15,41.4,2,3.0,Yes,732.91,40.6
+ORD-1379,Cloud Software,EMEA,Online Portal,251.03,20,27.3,2,,No,3649.98,29.4
+ORD-1380,Enterprise Hardware,North America,Online Portal,139.0,10,10.5,2,4.0,No,1244.05,30.4
+ORD-1381,Office Infrastructure,APAC,Partner Network,354.49,10,27.5,3,3.0,No,2570.05,15.8
+ORD-1382,Office Infrastructure,North America,Online Portal,282.58,5,55.4,2,4.0,No,630.15,26.9
+ORD-1383,Security Appliances,North America,Partner Network,,4,68.6,2,2.0,No,159.12,23.4
+ORD-1384,Office Infrastructure,APAC,Partner Network,,1,6.3,1,2.0,No,325.48,36.7
+ORD-1385,Security Appliances,EMEA,Reseller,418.37,10,12.3,1,4.0,No,3669.1,19.3
+ORD-1386,Cloud Software,APAC,Partner Network,207.35,1,10.0,2,5.0,No,186.62,18.2
+ORD-1387,Enterprise Hardware,EMEA,Direct Sales,219.12,1,14.4,2,5.0,No,187.57,32.3
+ORD-1388,Security Appliances,North America,Partner Network,332.32,5,2.9,3,4.0,No,1613.41,52.3
+ORD-1389,Security Appliances,APAC,Reseller,404.48,20,30.8,3,2.0,No,5598.0,26.4
+ORD-1390,Consulting Services,APAC,Partner Network,95.89,8,1.1,2,4.0,No,758.68,30.5
+ORD-1391,Cloud Software,APAC,Direct Sales,134.22,3,8.8,3,4.0,No,367.23,39.9
+ORD-1392,Cloud Software,North America,Direct Sales,191.71,3,0.8,3,5.0,No,570.53,34.6
+ORD-1393,Security Appliances,EMEA,Direct Sales,201.62,10,15.1,2,5.0,No,1711.75,34.7
+ORD-1394,Cloud Software,North America,Reseller,328.08,8,11.0,1,5.0,Yes,2335.93,27.4
+ORD-1395,Consulting Services,North America,Reseller,405.41,20,6.6,3,4.0,No,7573.06,27.6
+ORD-1396,Security Appliances,LATAM,Online Portal,418.88,8,28.5,5,4.0,No,2395.99,19.4
+ORD-1397,Cloud Software,North America,Reseller,94.64,5,4.5,2,3.0,,451.91,34.3
+ORD-1398,Security Appliances,,Direct Sales,156.66,10,25.4,2,,No,1168.68,34.1
+ORD-1399,Security Appliances,EMEA,Direct Sales,123.79,1,22.0,7,3.0,No,96.56,37.1
+ORD-1400,Enterprise Hardware,North America,Reseller,175.01,10,0.0,2,1.0,Yes,1750.1,22.6
+ORD-1401,Consulting Services,EMEA,Partner Network,156.36,3,55.3,2,3.0,No,209.68,38.5
+ORD-1402,Cloud Software,LATAM,Reseller,282.2,20,31.7,7,5.0,No,3854.85,42.1
+ORD-1403,Security Appliances,APAC,Reseller,297.45,8,22.2,7,4.0,Yes,1851.33,13.9
+ORD-1404,Cloud Software,APAC,Direct Sales,234.03,20,41.5,3,4.0,No,2738.15,24.9
+ORD-1405,Security Appliances,APAC,Online Portal,223.92,5,5.3,3,,No,1060.26,42.6
+ORD-1406,Cloud Software,APAC,Direct Sales,195.61,10,1.1,2,5.0,No,1934.58,20.7
+ORD-1407,Enterprise Hardware,APAC,Online Portal,206.48,4,16.2,1,3.0,No,692.12,34.8
+ORD-1408,Consulting Services,North America,Direct Sales,452.1,10,1.7,3,3.0,No,4444.14,28.6
+ORD-1409,Enterprise Hardware,EMEA,Reseller,317.0,1,23.9,1,5.0,No,241.24,32.5
+ORD-1410,Cloud Software,North America,Direct Sales,199.1,10,8.1,3,5.0,Yes,1829.73,29.0
+ORD-1411,Consulting Services,,Direct Sales,221.93,15,21.8,10,4.0,Yes,2603.24,37.5
+ORD-1412,Consulting Services,LATAM,Direct Sales,285.11,5,19.0,14,4.0,Yes,1154.7,16.2
+ORD-1413,Office Infrastructure,North America,Reseller,126.67,2,31.0,2,3.0,No,174.8,17.5
+ORD-1414,Office Infrastructure,APAC,Reseller,249.12,5,10.7,5,5.0,No,1112.32,46.1
+ORD-1415,Cloud Software,LATAM,Reseller,309.26,8,13.4,3,4.0,Yes,2142.55,53.7
+ORD-1416,Cloud Software,North America,Reseller,291.72,2,3.9,7,4.0,Yes,560.69,28.4
+ORD-1417,Cloud Software,EMEA,Online Portal,158.17,8,38.6,2,2.0,No,776.93,49.1
+ORD-1418,Office Infrastructure,LATAM,Online Portal,172.49,8,0.4,1,5.0,No,1374.4,19.2
+ORD-1419,Security Appliances,North America,Partner Network,78.19,1,17.4,2,4.0,No,64.58,22.1
+ORD-1420,Security Appliances,APAC,Reseller,323.8,1,7.8,3,3.0,No,298.54,46.0
+ORD-1421,Security Appliances,North America,Online Portal,536.71,3,51.7,3,4.0,No,777.69,38.1
+ORD-1422,Enterprise Hardware,LATAM,Direct Sales,147.45,3,17.0,5,4.0,Yes,367.15,47.8
+ORD-1423,Cloud Software,,Reseller,373.6,4,41.8,5,4.0,No,869.74,34.1
+ORD-1424,Enterprise Hardware,LATAM,Partner Network,515.22,2,28.2,2,4.0,No,739.86,16.3
+ORD-1425,Cloud Software,EMEA,Partner Network,186.6,20,0.3,3,4.0,No,3720.8,31.2
+ORD-1426,Cloud Software,LATAM,Partner Network,,10,1.0,1,5.0,No,2198.59,42.9
+ORD-1427,Security Appliances,APAC,Direct Sales,,10,5.9,7,2.0,No,2463.82,26.9
+ORD-1428,Cloud Software,North America,Online Portal,287.58,8,14.1,10,2.0,No,1976.25,25.1
+ORD-1429,Enterprise Hardware,APAC,Direct Sales,268.21,3,14.4,14,3.0,No,688.76,34.3
+ORD-1430,Enterprise Hardware,North America,Reseller,193.54,8,25.4,7,4.0,No,1155.05,21.8
+ORD-1431,Security Appliances,EMEA,Partner Network,307.12,15,28.8,2,4.0,No,3280.04,32.0
+ORD-1432,Office Infrastructure,North America,Direct Sales,195.64,15,11.3,1,5.0,No,2602.99,29.3
+ORD-1433,Enterprise Hardware,North America,Direct Sales,276.48,20,8.1,3,4.0,No,5081.7,22.6
+ORD-1434,Enterprise Hardware,North America,Online Portal,230.19,1,38.7,10,4.0,Yes,141.11,40.3
+ORD-1435,Office Infrastructure,APAC,Online Portal,89.44,1,1.3,2,,No,88.28,36.3
+ORD-1436,Enterprise Hardware,North America,Partner Network,397.9,3,31.4,1,3.0,No,818.88,24.3
+ORD-1437,Security Appliances,APAC,Direct Sales,174.73,3,6.2,7,5.0,No,491.69,28.3
+ORD-1438,Office Infrastructure,North America,Direct Sales,415.5,15,33.6,1,4.0,Yes,4138.38,25.2
+ORD-1439,Enterprise Hardware,North America,Online Portal,367.0,1,1.6,3,4.0,No,361.13,20.8
+ORD-1440,Enterprise Hardware,EMEA,Direct Sales,258.29,2,12.9,5,4.0,No,449.94,8.1
+ORD-1441,Consulting Services,APAC,Direct Sales,294.27,2,7.5,2,4.0,No,544.4,22.7
+ORD-1442,Cloud Software,North America,Direct Sales,310.19,3,14.7,1,3.0,No,793.78,21.0
+ORD-1443,Cloud Software,EMEA,Online Portal,212.66,8,8.3,5,4.0,Yes,1560.07,29.9
+ORD-1444,Security Appliances,LATAM,Partner Network,217.37,1,23.3,5,4.0,No,166.72,33.8
+ORD-1445,Consulting Services,EMEA,Reseller,303.5,2,13.8,,5.0,No,523.23,18.9
+ORD-1446,Consulting Services,North America,Partner Network,231.32,1,25.6,3,4.0,No,172.1,33.0
+ORD-1447,Security Appliances,North America,Reseller,193.83,5,12.5,1,5.0,Yes,848.01,17.0
+ORD-1448,Cloud Software,LATAM,Direct Sales,159.41,10,10.3,5,4.0,No,1429.91,27.0
+ORD-1449,Enterprise Hardware,North America,Partner Network,280.12,15,34.4,3,4.0,No,2756.38,21.3
+ORD-1450,Security Appliances,LATAM,Reseller,171.98,1,10.1,2,5.0,No,154.61,37.5
+ORD-1451,Office Infrastructure,EMEA,Online Portal,339.43,10,8.2,5,4.0,No,3115.97,29.9
+ORD-1452,Cloud Software,LATAM,Online Portal,352.17,5,31.8,2,,No,1200.9,27.2
+ORD-1453,Consulting Services,APAC,Partner Network,293.26,1,8.3,2,4.0,No,268.92,21.0
+ORD-1454,Enterprise Hardware,,Partner Network,320.74,3,13.1,1,4.0,No,836.17,24.6
+ORD-1455,Cloud Software,North America,Direct Sales,293.65,10,1.4,3,1.0,Yes,2895.39,50.4
+ORD-1456,Enterprise Hardware,APAC,Partner Network,330.9,1,13.3,3,4.0,No,286.89,22.5
+ORD-1457,Cloud Software,EMEA,Direct Sales,324.66,10,46.1,3,3.0,No,1749.92,34.3
+ORD-1458,Enterprise Hardware,EMEA,Direct Sales,273.39,5,7.3,5,4.0,No,1267.16,27.1
+ORD-1459,Enterprise Hardware,EMEA,Online Portal,369.06,1,10.3,10,3.0,No,331.05,33.9
+ORD-1460,Enterprise Hardware,LATAM,Online Portal,,1,24.0,2,3.0,No,164.28,38.5
+ORD-1461,Office Infrastructure,,Reseller,161.77,1,4.0,1,3.0,No,155.3,24.3
+ORD-1462,Office Infrastructure,APAC,Online Portal,157.78,20,16.4,1,2.0,No,2638.08,37.0
+ORD-1463,Office Infrastructure,EMEA,Online Portal,201.63,3,52.7,2,3.0,No,286.11,61.6
+ORD-1464,Consulting Services,EMEA,Partner Network,82.74,5,0.0,5,5.0,No,413.7,35.3
+ORD-1465,Cloud Software,APAC,Online Portal,257.14,20,1.2,5,5.0,Yes,5081.09,47.9
+ORD-1466,Cloud Software,North America,Reseller,312.03,8,11.0,5,4.0,No,2221.65,34.3
+ORD-1467,Security Appliances,North America,Partner Network,349.96,20,14.2,2,5.0,Yes,6005.31,17.3
+ORD-1468,Enterprise Hardware,North America,Reseller,99.21,15,3.9,3,3.0,No,1430.11,31.8
+ORD-1469,Consulting Services,North America,Online Portal,160.27,15,30.7,3,5.0,No,1666.01,24.5
+ORD-1470,Enterprise Hardware,North America,Reseller,334.88,1,16.8,1,3.0,No,278.62,21.3
+ORD-1471,Consulting Services,North America,Partner Network,213.02,20,32.0,5,3.0,Yes,2897.07,27.6
+ORD-1472,Enterprise Hardware,North America,Direct Sales,308.92,8,42.6,,4.0,No,1418.56,26.6
+ORD-1473,Security Appliances,North America,Reseller,123.44,20,8.8,3,2.0,No,2251.55,15.8
+ORD-1474,Cloud Software,,Reseller,413.32,3,25.9,5,4.0,No,918.81,61.0
+ORD-1475,Consulting Services,EMEA,Partner Network,118.59,3,9.7,3,4.0,No,321.26,38.2
+ORD-1476,Enterprise Hardware,North America,Partner Network,35.55,8,13.9,2,5.0,No,244.87,31.4
+ORD-1477,Office Infrastructure,APAC,Reseller,253.76,20,2.1,3,4.0,No,4968.62,29.6
+ORD-1478,Consulting Services,North America,Online Portal,256.72,10,19.6,2,3.0,No,2064.03,42.9
+ORD-1479,Cloud Software,LATAM,Reseller,184.16,3,2.4,1,4.0,No,539.22,53.4
+ORD-1480,Office Infrastructure,APAC,Partner Network,288.66,3,6.0,5,3.0,No,814.02,36.7
+ORD-1481,Office Infrastructure,North America,Direct Sales,292.3,2,36.4,7,4.0,No,371.81,30.0
+ORD-1482,Cloud Software,EMEA,Direct Sales,278.34,20,11.3,3,2.0,No,4937.75,46.2
+ORD-1483,Office Infrastructure,LATAM,Online Portal,182.56,3,6.6,3,4.0,Yes,511.53,30.2
+ORD-1484,Office Infrastructure,LATAM,Reseller,166.05,5,1.0,7,4.0,Yes,821.95,33.7
+ORD-1485,Consulting Services,EMEA,Direct Sales,191.86,20,5.5,7,4.0,,3626.15,40.5
+ORD-1486,Enterprise Hardware,EMEA,Reseller,155.3,15,29.5,5,,No,1642.3,23.9
+ORD-1487,Cloud Software,North America,Partner Network,376.57,2,23.2,2,5.0,Yes,578.41,3.6
+ORD-1488,Consulting Services,,Direct Sales,199.68,3,7.3,10,4.0,No,555.31,23.3
+ORD-1489,Security Appliances,North America,Online Portal,250.5,2,3.0,2,4.0,No,485.97,37.8
+ORD-1490,Cloud Software,LATAM,Partner Network,334.28,15,47.6,5,3.0,No,2627.44,36.9
+ORD-1491,Office Infrastructure,EMEA,Online Portal,151.65,8,10.1,1,4.0,No,1090.67,44.6
+ORD-1492,Cloud Software,EMEA,Partner Network,116.06,8,2.7,5,3.0,Yes,903.41,23.7
+ORD-1493,Enterprise Hardware,EMEA,Direct Sales,155.56,20,39.7,2,3.0,No,1876.05,47.5
+ORD-1494,Cloud Software,North America,Online Portal,262.86,15,23.7,3,,No,3008.43,30.7
+ORD-1495,Cloud Software,North America,Online Portal,254.87,4,51.3,3,4.0,No,496.49,35.8
+ORD-1496,Office Infrastructure,North America,Partner Network,278.1,4,46.7,2,4.0,No,592.91,39.3
+ORD-1497,Enterprise Hardware,North America,Online Portal,222.36,20,13.8,5,3.0,No,3833.49,11.9
+ORD-1498,Consulting Services,APAC,Partner Network,56.61,1,1.2,7,4.0,No,55.93,16.4
+ORD-1499,Consulting Services,North America,Partner Network,219.13,2,24.1,14,1.0,Yes,332.64,16.0
+ORD-1500,Office Infrastructure,North America,Partner Network,353.91,2,8.3,2,2.0,No,649.07,41.4
+ORD-1501,Cloud Software,,Partner Network,393.94,8,10.8,5,1.0,No,2811.16,24.8
+ORD-1502,Cloud Software,LATAM,Direct Sales,243.04,4,4.0,5,4.0,No,933.27,52.8
+ORD-1503,Security Appliances,LATAM,Partner Network,255.3,3,10.0,3,4.0,No,689.31,28.5
+ORD-1504,Office Infrastructure,,Reseller,306.36,3,12.5,1,2.0,Yes,804.2,10.8
+ORD-1505,Enterprise Hardware,North America,Online Portal,389.02,3,27.8,5,4.0,No,842.62,20.4
+ORD-1506,Consulting Services,North America,Reseller,233.39,8,7.7,10,3.0,No,1723.35,29.9
+ORD-1507,Security Appliances,APAC,Direct Sales,304.48,15,19.2,5,4.0,No,3690.3,34.7
+ORD-1508,Consulting Services,APAC,Reseller,178.78,10,28.2,3,,No,1283.64,16.7
+ORD-1509,Office Infrastructure,North America,Online Portal,124.76,4,16.0,3,4.0,No,419.19,35.3
+ORD-1510,Office Infrastructure,APAC,Reseller,187.72,4,22.7,2,5.0,No,580.43,38.5
+ORD-1511,Cloud Software,North America,Direct Sales,,2,1.3,5,5.0,No,844.89,20.8
+ORD-1512,Consulting Services,North America,Partner Network,307.2,1,0.8,5,4.0,No,304.74,52.1
+ORD-1513,Security Appliances,EMEA,Reseller,130.67,20,7.3,2,4.0,No,2422.62,22.1
+ORD-1514,Enterprise Hardware,EMEA,Direct Sales,313.5,2,6.6,7,5.0,No,585.62,16.5
+ORD-1515,Enterprise Hardware,EMEA,Direct Sales,135.65,15,12.2,2,4.0,No,1786.51,10.1
+ORD-1516,Cloud Software,North America,Online Portal,276.4,20,1.9,,3.0,No,5422.97,43.1
+ORD-1517,Security Appliances,LATAM,Online Portal,,4,52.4,3,5.0,Yes,283.37,28.8
+ORD-1518,Consulting Services,North America,Reseller,127.0,15,41.7,2,4.0,No,1110.62,22.7
+ORD-1519,Enterprise Hardware,North America,Partner Network,459.53,20,43.2,3,3.0,No,5220.26,10.8
+ORD-1520,Office Infrastructure,LATAM,Direct Sales,199.61,5,43.0,3,4.0,No,568.89,23.8
+ORD-1521,Cloud Software,,Reseller,304.74,10,18.9,1,5.0,,2471.44,57.1
+ORD-1522,Consulting Services,LATAM,Direct Sales,,4,15.0,3,4.0,No,808.45,2.8
+ORD-1523,Security Appliances,APAC,Direct Sales,140.96,1,21.0,3,4.0,No,111.36,20.9
+ORD-1524,Security Appliances,APAC,Partner Network,209.5,3,7.5,5,5.0,No,581.36,50.0
+ORD-1525,Cloud Software,EMEA,Partner Network,141.57,5,5.1,1,4.0,Yes,671.75,43.5
+ORD-1526,Cloud Software,North America,Reseller,602.98,3,28.1,3,4.0,Yes,1300.63,21.7
+ORD-1527,Cloud Software,EMEA,Partner Network,328.75,10,5.2,1,4.0,No,3116.55,30.9
+ORD-1528,Enterprise Hardware,North America,Partner Network,235.77,20,18.0,5,4.0,No,3866.63,34.1
+ORD-1529,Security Appliances,North America,Reseller,297.56,8,7.0,1,4.0,No,2213.85,30.1
+ORD-1530,Security Appliances,APAC,Partner Network,319.45,1,12.1,10,4.0,No,280.8,49.9
+ORD-1531,Consulting Services,EMEA,Online Portal,319.82,10,26.2,5,4.0,No,2360.27,32.6
+ORD-1532,Consulting Services,North America,Direct Sales,313.82,3,21.1,3,,No,742.81,42.1
+ORD-1533,Office Infrastructure,North America,Direct Sales,303.27,5,0.9,3,2.0,No,1502.7,30.7
+ORD-1534,Security Appliances,APAC,Direct Sales,244.51,4,24.6,2,3.0,No,737.44,4.1
+ORD-1535,Consulting Services,North America,Direct Sales,443.82,5,33.8,2,4.0,No,1469.04,14.2
+ORD-1536,Security Appliances,LATAM,Reseller,251.59,5,7.8,7,5.0,No,1159.83,16.7
+ORD-1537,Enterprise Hardware,EMEA,Direct Sales,238.87,8,6.2,10,3.0,No,1792.48,25.5
+ORD-1538,Cloud Software,EMEA,Direct Sales,252.56,8,20.2,1,3.0,,1612.34,53.4
+ORD-1539,Enterprise Hardware,EMEA,Direct Sales,,15,30.1,3,2.0,No,2733.33,32.8
+ORD-1540,Consulting Services,APAC,Direct Sales,99.61,15,73.3,5,4.0,No,398.94,27.2
+ORD-1541,Office Infrastructure,North America,Online Portal,154.8,20,32.0,5,3.0,No,2105.28,43.4
+ORD-1542,Enterprise Hardware,APAC,Direct Sales,222.36,15,35.3,1,4.0,No,2158.0,11.1
+ORD-1543,Office Infrastructure,EMEA,Online Portal,97.05,2,0.2,2,4.0,No,193.71,22.6
+ORD-1544,Office Infrastructure,North America,Reseller,235.6,1,7.1,2,5.0,No,218.87,20.9
+ORD-1545,Cloud Software,LATAM,Partner Network,259.15,2,22.0,7,4.0,Yes,404.27,33.3
+ORD-1546,Enterprise Hardware,APAC,Direct Sales,121.97,2,3.6,3,3.0,No,235.16,39.3
+ORD-1547,Office Infrastructure,APAC,Partner Network,172.89,3,11.6,3,4.0,No,458.5,34.2
+ORD-1548,Cloud Software,LATAM,Partner Network,400.95,10,14.2,10,,Yes,3440.15,34.3
+ORD-1549,Security Appliances,LATAM,Reseller,298.9,2,71.0,5,4.0,No,173.36,24.2
+ORD-1550,Cloud Software,APAC,Partner Network,291.39,1,8.1,7,,,267.79,32.3
+ORD-1551,Security Appliances,APAC,Online Portal,379.42,8,10.4,3,5.0,,2719.68,18.4
+ORD-1552,Office Infrastructure,APAC,Partner Network,156.25,20,36.4,2,1.0,No,1987.5,36.6
+ORD-1553,Office Infrastructure,APAC,Partner Network,122.15,3,6.5,10,4.0,No,342.63,22.5
+ORD-1554,Security Appliances,EMEA,Partner Network,357.05,8,15.2,3,3.0,No,2422.23,15.0
+ORD-1555,Cloud Software,APAC,Direct Sales,,3,14.5,2,4.0,No,577.71,29.0
+ORD-1556,Enterprise Hardware,North America,Direct Sales,154.25,1,25.3,3,3.0,No,115.22,5.5
+ORD-1557,Enterprise Hardware,LATAM,Online Portal,539.62,5,7.0,1,3.0,Yes,2509.23,46.2
+ORD-1558,Security Appliances,LATAM,Online Portal,,4,8.0,3,5.0,No,365.06,38.1
+ORD-1559,Office Infrastructure,North America,Direct Sales,,10,5.4,7,3.0,No,2401.52,32.5
+ORD-1560,Office Infrastructure,APAC,Online Portal,213.4,8,17.1,10,5.0,No,1415.27,9.0
+ORD-1561,Enterprise Hardware,North America,Direct Sales,196.82,10,5.9,10,1.0,No,1852.08,20.1
+ORD-1562,Enterprise Hardware,North America,Reseller,66.69,5,1.3,2,2.0,No,329.12,29.0
+ORD-1563,Enterprise Hardware,APAC,Partner Network,441.24,4,58.0,3,5.0,No,741.28,25.3
+ORD-1564,Cloud Software,North America,Partner Network,110.85,10,14.7,1,4.0,No,945.55,8.2
+ORD-1565,Office Infrastructure,APAC,Online Portal,205.7,10,13.1,7,4.0,No,1787.53,12.7
+ORD-1566,Cloud Software,APAC,Direct Sales,189.97,8,9.5,3,3.0,No,1375.38,25.1
+ORD-1567,Cloud Software,EMEA,Direct Sales,302.85,15,29.7,5,4.0,No,3193.55,13.1
+ORD-1568,Consulting Services,North America,Online Portal,99.78,4,3.7,5,4.0,No,384.35,45.0
+ORD-1569,Cloud Software,North America,Direct Sales,286.9,5,31.5,3,4.0,No,982.63,34.4
+ORD-1570,Cloud Software,EMEA,Reseller,254.43,4,8.3,3,4.0,No,933.25,18.9
+ORD-1571,Security Appliances,,Partner Network,168.89,1,3.0,14,,No,163.82,42.5
+ORD-1572,Cloud Software,EMEA,Online Portal,282.42,15,36.2,14,4.0,No,2702.76,40.1
+ORD-1573,Office Infrastructure,North America,Online Portal,,1,48.5,2,5.0,No,121.24,32.0
+ORD-1574,Security Appliances,EMEA,Direct Sales,487.52,5,16.6,3,4.0,No,2032.96,28.0
+ORD-1575,Consulting Services,EMEA,Online Portal,213.31,8,60.5,14,4.0,No,674.06,24.9
+ORD-1576,Enterprise Hardware,APAC,Reseller,144.52,8,0.2,1,2.0,No,1153.85,22.0
+ORD-1577,Consulting Services,North America,Direct Sales,288.17,5,0.2,3,4.0,No,1437.97,12.5
+ORD-1578,Cloud Software,APAC,Direct Sales,201.13,3,8.1,2,5.0,No,554.52,46.8
+ORD-1579,Cloud Software,EMEA,Direct Sales,233.26,5,11.3,3,3.0,Yes,1034.51,22.3
+ORD-1580,Cloud Software,,Direct Sales,122.66,15,8.4,1,2.0,No,1685.35,28.8
+ORD-1581,Consulting Services,North America,Reseller,304.91,2,0.8,3,3.0,No,604.94,17.6
+ORD-1582,Cloud Software,EMEA,Direct Sales,186.16,8,3.2,2,3.0,No,1441.62,25.4
+ORD-1583,Cloud Software,LATAM,Online Portal,263.25,20,7.3,3,5.0,No,4880.66,62.7
+ORD-1584,Office Infrastructure,North America,Reseller,541.55,15,1.5,,5.0,Yes,8001.4,19.8
+ORD-1585,Enterprise Hardware,LATAM,Partner Network,207.66,15,29.4,7,4.0,No,2199.12,45.9
+ORD-1586,Enterprise Hardware,APAC,Partner Network,323.3,15,12.9,7,2.0,,4223.91,28.2
+ORD-1587,Enterprise Hardware,North America,Online Portal,214.3,10,37.4,5,4.0,No,1341.52,36.7
+ORD-1588,Enterprise Hardware,North America,Online Portal,169.99,15,35.7,1,4.0,No,1639.55,43.4
+ORD-1589,Enterprise Hardware,APAC,Reseller,407.13,8,8.2,2,,No,2989.96,31.8
+ORD-1590,Enterprise Hardware,North America,Partner Network,,2,5.8,10,4.0,No,158.67,24.3
+ORD-1591,Office Infrastructure,EMEA,Partner Network,359.95,2,5.1,3,3.0,No,683.19,26.3
+ORD-1592,Enterprise Hardware,North America,Partner Network,78.67,15,26.9,2,4.0,No,862.62,26.7
+ORD-1593,Cloud Software,EMEA,Partner Network,343.63,1,2.8,5,,No,334.01,50.9
+ORD-1594,Security Appliances,North America,Partner Network,234.88,8,16.7,2,4.0,No,1565.24,10.7
+ORD-1595,Cloud Software,LATAM,Direct Sales,144.72,8,4.6,2,4.0,Yes,1104.5,7.3
+ORD-1596,Office Infrastructure,,Online Portal,192.07,4,16.2,,3.0,No,643.82,8.1
+ORD-1597,Enterprise Hardware,,Direct Sales,315.59,3,14.2,7,4.0,No,812.33,17.8
+ORD-1598,Enterprise Hardware,APAC,Partner Network,518.54,3,24.7,3,5.0,No,1171.38,36.9
+ORD-1599,Enterprise Hardware,North America,Reseller,101.88,1,26.7,,3.0,No,74.68,37.6
+ORD-1010,Enterprise Hardware,North America,Online Portal,142.01,2,7.2,2,3.0,No,263.57,28.5
+ORD-1025,Security Appliances,North America,Online Portal,168.81,2,20.5,5,4.0,No,268.41,16.9
+ORD-1040,Enterprise Hardware,North America,Direct Sales,300.34,20,25.3,2,5.0,No,4487.08,8.0
+ORD-1075,Office Infrastructure,,Online Portal,269.83,5,47.5,5,4.0,No,708.3,20.3
+ORD-1110,Cloud Software,APAC,Reseller,301.66,20,33.3,3,5.0,No,4024.14,17.9
